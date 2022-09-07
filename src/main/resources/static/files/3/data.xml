@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <Name>The Peninsula</Name>
+    <Amenities>pool  jacuzzi</Amenities>
+    <Stars>4</Stars>
+    <City>Paris</City>
+    <Country>France</Country>
+    <Photo>https://assets.hotelaparis.com/uploads/pictures/000/028/007/rect690_room.jpg</Photo>
+    <Price>400</Price>
+    <WebSite>https://www.peninsula.com/</WebSite>
+  </row>
+  <row>
+    <Name>Regent Berlin</Name>
+    <Amenities>wifi  pets</Amenities>
+    <Stars>5</Stars>
+    <City>Berlin</City>
+    <Country>Germany</Country>
+    <Photo>https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/germany/berlin/hotel-de-rome-berlin-germany-2-p-xlarge.jpg</Photo>
+    <Price>900</Price>
+    <WebSite>https://www.ihg.com/</WebSite>
+  </row>
+  <row>
+    <Name>Brown&#x27;s Hotel</Name>
+    <Amenities>              wifi</Amenities>
+    <Stars>5</Stars>
+    <City>London</City>
+    <Country>UK</Country>
+    <Photo>https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/united-kingdom/Hotels%20-%20England/london/the-ritz-london-p-large.jpg</Photo>
+    <Price>800</Price>
+    <WebSite></WebSite>
+  </row>
+  <row>
+    <Name>Grand Hotel Du Palais Royal</Name>
+    <Amenities>wifi</Amenities>
+    <Stars>5</Stars>
+    <City>Paris</City>
+    <Country>France</Country>
+    <Photo>https://media.timeout.com/images/103729245/1372/772/image.jpg</Photo>
+    <Price>850</Price>
+    <WebSite>https://www.roccofortehotels.com/hotels-and-resorts/browns-hotel/</WebSite>
+  </row>
+  <row>
+    <Name>The Savoy</Name>
+    <Amenities>                  wifi</Amenities>
+    <Stars>5</Stars>
+    <City>London</City>
+    <Country>UK</Country>
+    <Photo>https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/united-kingdom/Hotels%20-%20England/london/the-dorchester-p-large.jpg</Photo>
+    <Price>1050</Price>
+    <WebSite>https://www.fairmont.com/savoy-london/</WebSite>
+  </row>
+  <row>
+    <Name>George V</Name>
+    <Amenities>pool jacuzzi wifi</Amenities>
+    <Stars>5</Stars>
+    <City>Paris</City>
+    <Country>France</Country>
+    <Photo>https://assets.hotelaparis.com/uploads/pictures/000/011/834/rect690_1_chambre_hotel_george_v-2.jpg</Photo>
+    <Price>1000</Price>
+    <WebSite>https://www.fourseasons.com/paris/</WebSite>
+  </row>
+  <row>
+    <Name>The Ritz London</Name>
+    <Amenities>pool wifi</Amenities>
+    <Stars>5</Stars>
+    <City>London</City>
+    <Country>UK</Country>
+    <Photo>https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/united-kingdom/Hotels%20-%20England/london/the-langham-london-room-p-xlarge.jpg</Photo>
+    <Price>850</Price>
+    <WebSite>https://www.theritzlondon.com/</WebSite>
+  </row>
+  <row>
+    <Name>Le Royal Monceau</Name>
+    <Amenities>           wifi</Amenities>
+    <Stars>5</Stars>
+    <City>Paris</City>
+    <Country>France</Country>
+    <Photo>https://media.timeout.com/images/103698374/1372/772/image.jpg</Photo>
+    <Price>900</Price>
+    <WebSite>https://www.raffles.com/paris/</WebSite>
+  </row>
+  <row>
+    <Name>Grand Hyatt</Name>
+    <Amenities>                pets</Amenities>
+    <Stars>2</Stars>
+    <City>Berlin</City>
+    <Country>Germany</Country>
+    <Photo>https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/germany/berlin/waldorf-astoria-berlin-p-large.jpg</Photo>
+    <Price>156</Price>
+    <WebSite>https://www.hyatt.com/en-US/hotel/germany/grand-hyatt-berlin/bergh?src=corp_lclb_gmb_seo_eame_bergh</WebSite>
+  </row>
+  <row>
+    <Name>The Langham</Name>
+    <Amenities>jacuzzi wifi</Amenities>
+    <Stars>2</Stars>
+    <City>London</City>
+    <Country>UK</Country>
+    <Photo>https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/united-kingdom/Hotels%20-%20England/london/the-connaught-p-large.jpg</Photo>
+    <Price>170</Price>
+    <WebSite>http://www.langhamhotels.com/en/the-langham/london</WebSite>
+  </row>
+  <row>
+    <Name>The Ritz-Carlton</Name>
+    <Amenities>           pets</Amenities>
+    <Stars>5</Stars>
+    <City>Berlin</City>
+    <Country>Germany</Country>
+    <Photo>https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/germany/berlin/ritz-carlton-berlin-p-large.jpg</Photo>
+    <Price>900</Price>
+    <WebSite>http://www.ritzparis.com/en-GB/luxury-hotel-paris</WebSite>
+  </row>
+  <row>
+    <Name>Ritz Paris</Name>
+    <Amenities>pool wifi</Amenities>
+    <Stars>4</Stars>
+    <City>Paris</City>
+    <Country>France</Country>
+    <Photo>https://assets.hotelaparis.com/uploads/pictures/000/037/294/rect690_ritz-paris-hotel-suite-coco-chanel.jpg</Photo>
+    <Price>600</Price>
+    <WebSite>http://www.ritzparis.com/en-GB</WebSite>
+  </row>
+  <row>
+    <Name>Hotel de Rome</Name>
+    <Amenities>pool jacuzzi</Amenities>
+    <Stars>5</Stars>
+    <City>Berlin</City>
+    <Country>Germany</Country>
+    <Photo>https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/germany/berlin/hotel-zoo-berlin-p-large.jpg</Photo>
+    <Price>800</Price>
+    <WebSite>https://www.roccofortehotels.com/hotels-and-resorts/hotel-de-rome/</WebSite>
+  </row>
+</root>

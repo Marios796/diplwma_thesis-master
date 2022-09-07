@@ -1,0 +1,132 @@
+[
+ {
+   "Name": "The Peninsula",
+   "Amenities": "pool  jacuzzi",
+   "Stars": 4,
+   "City": "Paris",
+   "Country": "France",
+   "Photo": "https://assets.hotelaparis.com/uploads/pictures/000/028/007/rect690_room.jpg",
+   "Price": 400,
+   "WebSite": "https://www.peninsula.com/"
+ },
+ {
+   "Name": "Regent Berlin",
+   "Amenities": "wifi  pets",
+   "Stars": 5,
+   "City": "Berlin",
+   "Country": "Germany",
+   "Photo": "https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/germany/berlin/hotel-de-rome-berlin-germany-2-p-xlarge.jpg",
+   "Price": 900,
+   "WebSite": "https://www.ihg.com/"
+ },
+ {
+   "Name": "Brown's Hotel",
+   "Amenities": "              wifi",
+   "Stars": 5,
+   "City": "London",
+   "Country": "UK",
+   "Photo": "https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/united-kingdom/Hotels%20-%20England/london/the-ritz-london-p-large.jpg",
+   "Price": 800,
+   "WebSite": ""
+ },
+ {
+   "Name": "Grand Hotel Du Palais Royal",
+   "Amenities": "wifi",
+   "Stars": 5,
+   "City": "Paris",
+   "Country": "France",
+   "Photo": "https://media.timeout.com/images/103729245/1372/772/image.jpg",
+   "Price": 850,
+   "WebSite": "https://www.roccofortehotels.com/hotels-and-resorts/browns-hotel/"
+ },
+ {
+   "Name": "The Savoy",
+   "Amenities": "                  wifi",
+   "Stars": 5,
+   "City": "London",
+   "Country": "UK",
+   "Photo": "https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/united-kingdom/Hotels%20-%20England/london/the-dorchester-p-large.jpg",
+   "Price": 1050,
+   "WebSite": "https://www.fairmont.com/savoy-london/"
+ },
+ {
+   "Name": "George V",
+   "Amenities": "pool jacuzzi wifi",
+   "Stars": 5,
+   "City": "Paris",
+   "Country": "France",
+   "Photo": "https://assets.hotelaparis.com/uploads/pictures/000/011/834/rect690_1_chambre_hotel_george_v-2.jpg",
+   "Price": 1000,
+   "WebSite": "https://www.fourseasons.com/paris/"
+ },
+ {
+   "Name": "The Ritz London",
+   "Amenities": "pool wifi",
+   "Stars": 5,
+   "City": "London",
+   "Country": "UK",
+   "Photo": "https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/united-kingdom/Hotels%20-%20England/london/the-langham-london-room-p-xlarge.jpg",
+   "Price": 850,
+   "WebSite": "https://www.theritzlondon.com/"
+ },
+ {
+   "Name": "Le Royal Monceau",
+   "Amenities": "           wifi",
+   "Stars": 5,
+   "City": "Paris",
+   "Country": "France",
+   "Photo": "https://media.timeout.com/images/103698374/1372/772/image.jpg",
+   "Price": 900,
+   "WebSite": "https://www.raffles.com/paris/"
+ },
+ {
+   "Name": "Grand Hyatt",
+   "Amenities": "                pets",
+   "Stars": 2,
+   "City": "Berlin",
+   "Country": "Germany",
+   "Photo": "https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/germany/berlin/waldorf-astoria-berlin-p-large.jpg",
+   "Price": 156,
+   "WebSite": "https://www.hyatt.com/en-US/hotel/germany/grand-hyatt-berlin/bergh?src=corp_lclb_gmb_seo_eame_bergh"
+ },
+ {
+   "Name": "The Langham",
+   "Amenities": "jacuzzi wifi",
+   "Stars": 2,
+   "City": "London",
+   "Country": "UK",
+   "Photo": "https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/united-kingdom/Hotels%20-%20England/london/the-connaught-p-large.jpg",
+   "Price": 170,
+   "WebSite": "http://www.langhamhotels.com/en/the-langham/london"
+ },
+ {
+   "Name": "The Ritz-Carlton",
+   "Amenities": "           pets",
+   "Stars": 5,
+   "City": "Berlin",
+   "Country": "Germany",
+   "Photo": "https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/germany/berlin/ritz-carlton-berlin-p-large.jpg",
+   "Price": 900,
+   "WebSite": "http://www.ritzparis.com/en-GB/luxury-hotel-paris"
+ },
+ {
+   "Name": "Ritz Paris",
+   "Amenities": "pool wifi",
+   "Stars": 4,
+   "City": "Paris",
+   "Country": "France",
+   "Photo": "https://assets.hotelaparis.com/uploads/pictures/000/037/294/rect690_ritz-paris-hotel-suite-coco-chanel.jpg",
+   "Price": 600,
+   "WebSite": "http://www.ritzparis.com/en-GB"
+ },
+ {
+   "Name": "Hotel de Rome",
+   "Amenities": "pool jacuzzi",
+   "Stars": 5,
+   "City": "Berlin",
+   "Country": "Germany",
+   "Photo": "https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/germany/berlin/hotel-zoo-berlin-p-large.jpg",
+   "Price": 800,
+   "WebSite": "https://www.roccofortehotels.com/hotels-and-resorts/hotel-de-rome/"
+ }
+]

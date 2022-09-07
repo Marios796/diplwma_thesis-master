@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <id>1</id>
+    <text>Daphne&#x27;s Greek Cafe</text>
+    <score>3.5</score>
+    <x>34.19198813</x>
+    <y>-118.937563</y>
+    <keyword>Greek Mediterranean Diner Italian</keyword>
+  </row>
+  <row>
+    <id>2</id>
+    <text>Daphne&#x27;s Greek Cafe</text>
+    <score>2.5</score>
+    <x>37.755557</x>
+    <y>-122.2503608</y>
+    <keyword>Greek Mediterranean</keyword>
+  </row>
+  <row>
+    <id>3</id>
+    <text>Laguna Pizza</text>
+    <score>4.5</score>
+    <x>38.423436</x>
+    <y>-121.41361</y>
+    <keyword>Pizza</keyword>
+  </row>
+  <row>
+    <id>4</id>
+    <text>Starbucks Coffee</text>
+    <score>4.5</score>
+    <x>34.095731</x>
+    <y>-117.717899</y>
+    <keyword>American Coffee Tea</keyword>
+  </row>
+  <row>
+    <id>5</id>
+    <text>Starbucks Coffee</text>
+    <score>5</score>
+    <x>36.341065</x>
+    <y>-119.347593</y>
+    <keyword>Coffee</keyword>
+  </row>
+  <row>
+    <id>6</id>
+    <text>Starbucks Coffee</text>
+    <score>1.5</score>
+    <x>38.25833449</x>
+    <y>-122.0536423</y>
+    <keyword>Coffee American</keyword>
+  </row>
+</root>

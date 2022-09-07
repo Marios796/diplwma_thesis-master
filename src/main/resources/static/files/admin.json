@@ -1,0 +1,22 @@
+{
+  "queries": [
+    {
+      "name": "scoreQuery",
+      "parameters": {
+        "score": "x"
+      }
+    },
+    {
+      "name": "keywordQuery",
+      "parameters": {
+        "keyword": "x"
+      }
+    }
+  ],
+
+  "data": [
+    {
+      "source": ".json"
+    }
+  ]
+}

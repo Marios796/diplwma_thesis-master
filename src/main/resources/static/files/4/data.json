@@ -1,0 +1,74 @@
+[
+ {
+   "address": "s Gravesandestraat 55 Oost 1092 AA Amsterdam                 ",
+   "keyword": "Netherlands   ",
+   "score": 7.7,
+   "text": "Hotel Arena            ",
+   "x": 52.3605759,
+   "y": 4.9159683
+ },
+ {
+   "address": "20 rue de l Ing nieur Robert Keller 15th arr 75015 Paris     ",
+   "keyword": "France        ",
+   "score": 8.6,
+   "text": "Platine Hotel Spa      ",
+   "x": 48.8473459,
+   "y": 2.2832408
+ },
+ {
+   "address": "64 76 Hendon Way London NW2 2NL                              ",
+   "keyword": "United Kingdom",
+   "score": 7.9,
+   "text": "Best Western Palm Hotel",
+   "x": 51.5634756,
+   "y": -0.2042758
+ },
+ {
+   "address": "Arend Janszoon Ernststraat 577 Zuideramstel 1082 LD Amsterdam",
+   "keyword": "Netherlands   ",
+   "score": 8.9,
+   "text": "Element Amsterdam      ",
+   "x": 52.3312406,
+   "y": 4.8774466
+ },
+ {
+   "address": "Corso di Porta Romana 48 Milan City Center 20122 Milan       ",
+   "keyword": "Italy         ",
+   "score": 6,
+   "text": "Hotel Lloyd            ",
+   "x": 45.4580781,
+   "y": 9.1924205
+ },
+ {
+   "address": "Gran Via 605 Eixample 08007 Barcelona                        ",
+   "keyword": "Spain         ",
+   "score": 4,
+   "text": "Avenida Palace         ",
+   "x": 41.3891168,
+   "y": 2.1671986
+ },
+ {
+   "address": "Via Privata Polonia 10 20157 Milan                           ",
+   "keyword": "Italy         ",
+   "score": 3,
+   "text": "The Hub Hotel          ",
+   "x": 45.5138582,
+   "y": 9.1194759
+ },
+ {
+   "address": "Webgasse 23 06 Mariahilf 1060 Vienna                         ",
+   "keyword": "Austria       ",
+   "score": 9,
+   "text": "ANA Boutique           ",
+   "x": 48.1941905,
+   "y": 16.3462578
+ },
+ {
+   "address": "Athanasiou Diakou 29 Athens                                  ",
+   "keyword": "Greece        ",
+   "score": 4,
+   "text": "Royal Olympic Hotel    ",
+   "x": 37.9677111,
+   "y": 23.7323611
+ }
+]

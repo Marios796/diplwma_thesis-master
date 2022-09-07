@@ -1,0 +1,1716 @@
+id,text,score,x,y,keyword
+1,Daphne's Greek Cafe,3.5,34.19198813,-118.937563,Greek Mediterranean Diner Italian
+2,Daphne's Greek Cafe,2.5,37.755557,-122.2503608,Greek Mediterranean
+3,Laguna Pizza,4.5,38.423436,-121.41361,Pizza
+4,Starbucks Coffee,4.5,34.095731,-117.717899,American Coffee Tea
+5,Starbucks Coffee,5,36.341065,-119.347593,Coffee
+6,Starbucks Coffee,1.5,38.25833449,-122.0536423,Coffee American
+7,Starbucks Coffee,3.5,33.687567,-117.988336,Coffee American
+8,Starbucks Coffee,4.5,33.787701,-117.815002,Coffee American Tea
+9,Starbucks Coffee,3,32.76668345,-115.5328849,Coffee American Tea
+10,Starbucks Coffee,4,34.0048,-118.153016,American Coffee Tea
+11,Starbucks Coffee,4,33.90267928,-118.083226,American Coffee Tea
+12,Starbucks Coffee,4,34.016384,-118.49698,American Coffee
+13,Starbucks Coffee,2.5,34.050425,-117.820702,American Coffee
+14,Starbucks Coffee,4.5,34.020118,-118.454407,Coffee American Tea
+15,Starbucks Coffee,5,38.739985,-121.226114,Coffee American Tea
+16,Starbucks Coffee,4,34.003477,-118.471965,Coffee
+17,Starbucks Coffee,4.5,33.672452,-117.953586,Coffee American Tea
+18,Starbucks Coffee,4,33.679278,-118.004725,Coffee American Tea
+19,Churchs Chicken,3.5,34.140635,-117.990695,Chicken Wings Fast Food
+20,El Adobe,3.5,33.499466,-117.6625,Mexican American Caribbean Latin American
+21,Jack's Restaurant,4,34.864594,-120.44726,Bakery American Burgers Chicken Fast Food Salad Steak
+22,Yoshino River Park,3.5,36.849474,-119.7841667,Sushi Japanese
+23,Comfort Cafe,3.5,34.015477,-118.4925265,American Healthy Sandwiches Burgers Ice Cream Juices Seafood Smoothies Soup Steak
+24,Hinano Café,4,33.979293,-118.466451,Burgers Pub Food Sandwiches
+25,Palms,4,34.397338,-119.520776,Californian Seafood American Chicken Steak
+26,Fuzhou Super Buffet,4,38.09562,-122.562614,Chinese Buffet
+27,Chiaramonte's Deli and Sausages,4,37.353099,-121.886424,Deli Catering Sandwiches
+28,Philippe The Original,4.5,34.059767,-118.23675,Sandwiches American Salad Deli French Soup
+29,Barstow Station Liquor,3.5,34.891606,-117.000213,Fast Food
+30,Luigi's,4.5,35.374537,-118.993195,Italian Deli American
+31,McDonald's,1.5,37.781337,-122.420093,American Burgers Fast Food
+32,Swan Oyster Depot,4.5,37.79072,-122.42071,Seafood American Traditional
+33,Clearman's Galley,4,34.128218,-118.073139,American Seafood
+34,Balboa Cafe,4,37.798894,-122.43589,American Burgers Californian Mediterranean
+35,Sam's for Play Cafe and Catering On Cleveland Ave,4.5,38.462831,-122.728381,Catering Diner
+36,Farmer Boys Restaurant,3.5,33.832059,-117.9850209,American Burgers Fast Food
+37,The Farm Of Beverly Hills,4,34.072022,-118.35754,American Californian Coffee Sandwiches Tea
+38,St. Francis Fountain,4,37.75285167,-122.40827,American Diner Coffee Deli Ice Cream Frozen Yogurt Sandwiches
+39,A G Ferrari Foods,4,37.368496,-122.03496,Deli Catering Italian Sandwiches
+40,A G Ferrari Foods,4,37.858281,-122.253116,Italian Deli Sandwiches
+41,A G Ferrari Foods,4,37.786776,-122.451612,Deli Italian Sandwiches
+42,A&W Restaurant,3,36.302863,-119.135775,American Burgers Hot Dogs Chicken Fast Food Pub Food Sandwiches
+43,A&W Restaurant,4.5,34.272035,-118.50015,American Barbecue Dim Sum Chinese Seafood
+44,A&W Restaurant,3,35.48476,-120.66527,American Burgers Hot Dogs Chicken Fast Food
+45,Camilo's Fine Cuisine and Catering,4,34.139198,-118.213025,Californian French Contemporary Latin
+46,Musso and Frank Grill,3.5,34.101572,-118.335352,American Steak Continental Seafood Barbecue Deli European Steakhouse
+47,Barney's Beanery,3.5,34.0905,-118.374115,American Traditional Diner Bagels Barbecue Burgers Deli Donuts Pizza Sandwiches
+48,Sam's Anchor Cafe,3.5,37.87281873,-122.4564886,American Seafood Cafe Sandwiches Traditional
+49,Pacific Dining Car,4.5,34.055558,-118.266053,American Steak Diner Seafood Tea Traditional
+50,Bistango Cafe,4,34.02491,-118.27809,Italian American Pizza Sandwiches Pasta Salad
+51,Wood Ranch Barbeque,4,34.21831,-119.05551,American Barbecue
+52,Basque Hotel,1.5,36.73146,-119.796036,American Mexican
+53,El Cholo,4,33.938846,-117.93728,Mexican
+54,El Cholo Cantina,3.5,33.66988,-117.78862,Mexican
+55,El Cholo Restaurant,4,34.050217,-118.30905,Mexican Diner
+56,Espanol Restaurant,4,38.558006,-121.43697,Italian Spanish European
+57,Smeraldi's Restaurant,3,34.049788,-118.254047,American Italian Californian Continental Mediterranean
+58,The Original Pantry Cafe,3.5,34.04633,-118.262558,American Steak Coffee Cafe Diner
+59,Whiskey Creek At Bishop,4,37.364352,-118.395234,American
+60,Alioto's Restaurant,3,37.80916,-122.41646,Seafood Italian American European Southern
+61,Bay Cities Italian Deli and Bakery,4.5,34.01769,-118.489265,Deli Italian American Bakery
+62,Chevy Chase Country Club,5,34.169754,-118.203491,American
+63,Dario's Deli and Pizza,4,33.888401,-117.862999,Deli Pizza Sandwiches
+64,Ono Hawaiian BBQ,2,37.733758,-122.48956,Hawaiian Pacific Rim Pan Asian American Barbecue Hot Dogs Italian Polynesian
+65,Genova Delicatessen,4.5,37.89668284,-122.0641297,Deli Italian
+66,Hong Kong Restaurant,4,37.332027,-120.469065,Burgers Chinese
+67,Shepherd's Inn,4.5,36.738,-119.78269,Seafood American Mexican Steak
+68,Taix French Restaurant,4,34.0780536,-118.2608429,French Healthy Sandwiches Seafood
+69,Bella Vista Continental Restaurant,4.5,37.445177,-122.328735,American French Continental Traditional European Italian
+70,Mexicali Rose Restaurant,3.5,37.80045,-122.27659,Mexican Fast Food
+71,Ole's Waffle Shop,4,37.765562,-122.24176,American Diner Traditional
+72,Santa Fe Basque,4,36.778652,-119.79952,American Southwestern
+73,Alfred's Steakhouse,4,37.794952,-122.40417,Steak American Barbecue Latin American Salad Seafood Steakhouse
+74,Joe's Cafe,4,34.41744519,-119.6962392,American Sandwiches Steak Seafood Burgers Cafe Healthy Salad
+75,El Carmen,4.5,34.072183,-118.367257,Mexican Grill
+76,Lucca Delicatessen,4.5,37.800556,-122.438194,Deli Italian Sandwiches
+77,Piemonte's Italian Delicatessen,5,36.75764,-119.80363,Deli American Italian Sandwiches
+78,City Club of San Francisco,4.5,37.792127,-122.401261,American
+79,La Golondrina Mexican Cafe,4,34.05709,-118.23834,Mexican American Deli
+80,The Brighton Coffeeshop,4,34.0686,-118.403999,Coffee American Diner Californian Deli Tea
+81,Village Inn,3.5,33.605509,-117.890027,Seafood American Steak
+82,Clifton's Cafeteria,4,34.045208,-118.25271,American Bakery Traditional
+83,El Coyote Spanish Cafe,3.5,34.076164,-118.34896,Mexican Spanish American Fast Food Irish
+84,Orange Inn,4,33.5375153,-117.779642,Smoothies
+85,Petrelli's George Steak House,2.5,33.990013,-118.39525,Steak American Italian Mediterranean Pasta Seafood
+86,The Half Way House Cafe,4,34.465673,-118.405264,Cafe
+87,Casa Orinda,3,37.879246,-122.182396,American Italian Mexican Latin American Steak Traditional
+88,Cosmopolitan Tavern,4.5,36.732777,-119.7966,American Catering Deli Pub Food
+89,Espiau's Restaurant,3,34.094757,-117.71788,American Diner International Italian Mediterranean Mexican
+90,Marquez Restaurant,4.5,33.90219972,-118.049116,Mexican American Latin American Mediterranean
+91,Alley,4,37.813166,-122.24708,Steak
+92,Avenue 5 Restaurant and Bar,4.5,32.734093,-117.160327,American French Bistro Fusion
+93,Galley,4.5,34.00358,-118.485214,Steak American Seafood Italian Pasta
+94,Jim Denny's Lunch,4,38.581195,-121.490155,Burgers American Diner
+95,The Red Sails Inn,3,32.72044,-117.227461,American Seafood Californian Diner
+96,Nob Hill Foods,4,37.929317,-122.01638,Bakery Deli
+97,Sodinis Green Valley Restaurant,4,37.799715,-122.407573,Italian Pizza
+98,Tom Bergin's Tavern,4,34.060593,-118.362625,Irish American Pub Food Steak Burgers Deli Salad Sandwiches
+99,Big Dipper Cafe,3.5,40.68104267,-122.3709422,Cafe Coffee Sandwiches
+100,Damon's Steakhouse,4,34.1507,-118.25509,Steak American Seafood Pacific Rim Steakhouse Thai
+101,Kraft Pizza Company,5,38.485023,-121.396412,Fast Food Pizza Sandwiches Subs
+102,Original Joe's Restaurant,3.5,37.33145,-121.88705,Italian American Barbecue Burgers Continental European Steak
+103,Ravioli House,4,37.564062,-122.320576,American Deli Sandwiches
+104,The Buckeye Roadhouse,4,37.880287,-122.51819,American Barbecue Californian Contemporary Italian Seafood Steak Traditional
+105,Bill Lee's Bamboo Chopsticks,4,35.37526,-119.015305,Chinese American
+106,Cactus Patch Cafe,4,34.05569,-117.65933,Mexican Cafe
+107,Cathay House Restaurant,2,37.792447,-122.40638,Chinese Asian
+108,El Rancho Grande,5,34.057307,-118.238146,Mexican Cuban Japanese South American
+109,Jack's Grill,4,40.581623,-122.391136,Steak
+110,Lim's Cafe,4,40.598195,-122.385979,Cafe Fast Food Sandwiches
+111,Richmaid Restaurant,4,38.1329,-121.26062,American Burgers Coffee
+112,Sears Fine Foods Restaurant,3.5,37.788654,-122.40848,American Diner Californian Coffee
+113,Country Kitchen,4.5,36.791714,-121.665976,American Southern
+114,Harbor House Cafe No 2,4,33.46681,-117.70028,American Chinese Mexican Diner Deli
+115,Kc Steakhouse,3,35.38213,-119.023476,American Steak Seafood
+116,Mexicali Restaurant,4,35.37524,-119.008644,Mexican Contemporary
+117,Zals Museum Cafe,5,34.423128,-119.704073,Cafe Coffee French Sandwiches
+118,Club Pheasant,3.5,38.551988,-121.53776,Italian American
+119,Dairy Queen,3,33.558037,-117.724289,Burgers Fast Food Ice Cream American
+120,Dairy Queen,3.5,32.856871,-116.926879,Fast Food Ice Cream American Burgers Hot Dogs
+121,Dairy Queen,4,39.325973,-120.208733,Ice Cream American Burgers
+122,Dairy Queen,4.5,37.964384,-121.987685,Fast Food Ice Cream American Burgers
+123,Dairy Queen,5,33.191452,-117.229551,Ice Cream American Burgers Fast Food Hot Dogs Sandwiches
+124,Dairy Queen,3.5,33.8659495,-118.09275,Ice Cream American Burgers Fast Food Hot Dogs
+125,Dairy Queen,4.5,33.817799,-118.037223,Ice Cream American Burgers Fast Food
+126,Dairy Queen,3.5,33.140642,-117.094376,American Ice Cream Fast Food
+127,Dairy Queen,5,34.027507,-117.61139,Ice Cream American Burgers Fast Food Hot Dogs
+128,Dairy Queen,5,33.875617,-117.583486,American Burgers Fast Food Ice Cream Hot Dogs
+129,Dairy Queen,5,34.097692,-117.370807,American Ice Cream Burgers Fast Food Hot Dogs
+130,Dairy Queen,1.5,38.712131,-121.28995,Ice Cream American Burgers Fast Food Hot Dogs
+131,Dairy Queen,4,33.72531,-117.989089,Ice Cream American Fast Food Burgers Frozen Yogurt Hot Dogs
+132,Dairy Queen,3,39.149155,-121.620673,Fast Food Burgers American Ice Cream Hot Dogs
+133,Dairy Queen,4,34.13496794,-118.0509281,Fast Food American Ice Cream
+134,Dairy Queen,3,38.647177,-121.328251,American Fast Food Ice Cream Burgers
+135,Dairy Queen,2.5,38.678502,-121.303812,Ice Cream American Burgers Fast Food Frozen Yogurt Hot Dogs
+136,El Indio Mexican Restaurant,3,32.74212,-117.18019,Mexican
+137,Frank Fats,3.5,38.578815,-121.496994,Chinese American Asian Pacific Rim
+138,Gunther's Quality Ice Cream,5,38.553398,-121.475998,Cafe Californian Fast Food Ice Cream
+139,Marine Room,3.5,32.85237108,-117.260866,French Seafood American Contemporary Continental International
+140,McDonald's,2,33.857399,-117.959,American Burgers Fast Food Chicken Sandwiches
+141,Nielsen's Restaurant,5,36.2078183,-119.3436419,American
+142,Orange Julius,4,34.183164,-118.311625,American Chinese Fast Food Ice Cream Smoothies Traditional
+143,Orange Julius,4,34.601558,-118.152218,American Fast Food
+144,Rice Bowl,5,36.20461,-119.35129,Chinese Asian Deli
+145,Carl's Jr,1,36.807414,-119.884527,American Burgers Fast Food
+146,Carl's Jr,4,33.891886,-118.044823,American Burgers Fast Food
+147,Carl's Jr,2,33.609142,-114.6055,American Burgers Fast Food
+148,Carl's Jr,3,34.520897,-117.330805,American Burgers Fast Food
+149,Carl's Jr,4,34.027007,-117.651015,Burgers American Fast Food
+150,Carl's Jr,2,37.321654,-121.826734,American Burgers Fast Food
+151,Carl's Jr,3.5,34.127564,-118.260095,Burgers American Fast Food
+152,Carl's Jr,2.5,34.034561,-118.472762,American Burgers Fast Food
+153,Carl's Jr,2,33.902145,-118.3724745,American Burgers Fast Food
+154,Carl's Jr,3.5,33.721327,-116.3891412,American Fast Food Burgers
+155,Carl's Jr,4,33.787758,-117.815949,Fast Food American Burgers Mexican
+156,Carl's Jr,3.5,37.490994,-121.928867,Burgers American Fast Food
+157,Carl's Jr,3,33.649159,-117.582582,American Fast Food Burgers
+158,Carl's Jr,3.5,37.521613,-121.992035,American Burgers Fast Food
+159,Carl's Jr,3,33.888487,-117.868379,Fast Food American Burgers Pizza
+160,Carl's Jr,2,32.775745,-117.022184,Burgers American Fast Food
+161,Carl's Jr,2,33.371472,-117.2537,American Burgers
+162,Carl's Jr,2,33.760488,-117.837395,American Fast Food Burgers
+163,Carl's Jr,2.5,34.074106,-118.20717,American Burgers Fast Food
+164,Carl's Jr,1,38.743538,-121.171644,Burgers American
+165,Carl's Jr,3,32.99546,-117.2585,Burgers American Fast Food
+166,Carl's Jr,1,35.365622,-119.04379,American Burgers Fast Food
+167,Carl's Jr,3.5,34.171839,-118.431578,Fast Food American Burgers
+168,Carl's Jr,2,33.781985,-117.867791,American Fast Food Burgers
+169,Carl's Jr,3.5,37.692313,-122.47159,Burgers American Fast Food
+170,Carl's Jr,5,37.388163,-120.735999,American Burgers Fast Food
+171,Carl's Jr,4,33.55652,-117.176247,American Fast Food Burgers
+172,Carl's Jr,5,33.899009,-117.563287,American Burgers Fast Food
+173,Carl's Jr,3,37.961556,-121.735776,Burgers American
+174,Carl's Jr,1,37.811381,-121.292219,American Burgers Fast Food
+175,Carl's Jr,4,34.130647,-118.025445,American Burgers Fast Food Pizza
+176,Carl's Jr,3,35.037595,-120.483373,American Fast Food Burgers
+177,Carl's Jr,2.5,36.822502,-119.870556,Burgers American Fast Food
+178,Carl's Jr,1.5,33.858112,-118.089816,Burgers American Fast Food
+179,Carl's Jr,3.5,38.614069,-121.515772,Burgers American Fast Food
+180,Carl's Jr,3,33.802994,-118.0114967,American Burgers Fast Food
+181,Carl's Jr,5,40.586747,-122.350874,American Burgers Fast Food
+182,Carl's Jr,3,33.9972055,-117.87078,Fast Food American
+183,Carl's Jr,4,33.975534,-117.478428,American Burgers Fast Food
+184,Carl's Jr,2.5,37.560579,-122.011682,American Burgers Fast Food
+185,Carl's Jr,2,34.558126,-118.084572,American Burgers Fast Food
+186,Carl's Jr,3.5,36.601542,-121.8491,American Burgers Fast Food
+187,Carl's Jr,4,33.808848,-117.83784,American Fast Food Burgers
+188,Carl's Jr,3,34.138234,-117.371461,Burgers American Fast Food
+189,Carl's Jr,2,33.858299,-118.116997,American Burgers Fast Food
+190,Carl's Jr,3,36.203984,-121.130301,American Burgers Fast Food
+191,Carl's Jr,3,33.91701,-118.13393,American Fast Food Burgers
+192,Carl's Jr,3,34.43735422,-118.5638952,Burgers American Fast Food
+193,Carl's Jr,5,33.774621,-117.487895,American Burgers Fast Food
+194,Carl's Jr,2,34.236958,-118.536083,American Burgers Fast Food
+195,Carl's Jr,2,33.700009,-117.740492,American Burgers Fast Food
+196,Carl's Jr,3,33.8986594,-118.0066475,American Burgers Fast Food
+197,Carl's Jr,2.5,36.845791,-119.790166,American Burgers Fast Food
+198,Carl's Jr,2.5,34.197755,-118.86938,American Fast Food Burgers
+199,Carl's Jr,3,38.65267,-121.38354,Burgers American Fast Food
+200,Carl's Jr,2,34.04786301,-117.847168,American Burgers Fast Food Mexican
+201,Carl's Jr,3,38.65747,-120.968999,Burgers American
+202,Carl's Jr,3,33.60074,-117.69168,American Burgers Fast Food
+203,Carl's Jr,4,33.572537,-117.234654,American Fast Food Burgers
+204,Carl's Jr,2.5,33.781703,-117.889469,American Burgers Fast Food
+205,Carl's Jr,2.5,33.57961026,-117.6698613,American Burgers Fast Food
+206,Carl's Jr,3,34.154651,-118.827873,American Burgers Fast Food
+207,Carl's Jr,4,33.5938,-117.72849,Burgers American
+208,Carl's Jr,3.5,33.665028,-117.82694,American Burgers Fast Food
+209,Carl's Jr,3,36.419159,-121.322327,American Burgers Fast Food
+210,Carl's Jr,5,36.837014,-119.772743,American Burgers Fast Food
+211,Carl's Jr,3.5,37.953386,-121.955493,Burgers American Fast Food Hot Dogs
+212,Carl's Jr,2,36.5455538,-119.4052137,Burgers
+213,Carl's Jr,1.5,37.4077754,-121.9640624,American Burgers Fast Food
+214,Carl's Jr,1,38.08661,-122.11375,American Burgers Fast Food
+215,Carl's Jr,2,37.365792,-121.949683,Burgers American Fast Food
+216,Carl's Jr,3,37.68551581,-122.1000157,Burgers American Fast Food
+217,Carl's Jr,1.5,33.673272,-117.9217958,American Burgers Fast Food
+218,Carl's Jr,4,33.901709,-118.117093,American Burgers Fast Food
+219,Carl's Jr,1.5,38.80609,-121.205484,Fast Food American Burgers
+220,Clovis Carls Jr / Green Burrito,4,36.809193,-119.700369,Burgers American Fast Food
+221,Dickey's Barbeque Pit,3,34.079788,-117.575815,Barbecue Catering
+222,S D Chicken Pie Shop,4.5,32.75501011,-117.1354795,American Chicken
+223,The Great White Hut,5,34.149918,-118.25537,American
+224,Alexs Bar B Q of Shell Beach,3.5,35.156555,-120.669266,Barbecue American
+225,Canteen,3,34.089199,-118.333,American Continental Italian Sushi Eclectic International
+226,Round Table Pizza,3,38.244749,-122.644694,Pizza American Deli
+227,Teresa's Place Restaurant,3.5,38.36519,-120.77482,Italian American Seafood Steak Pizza
+228,Boll Weevil,4.5,32.831877,-117.129684,American Burgers
+229,China's Alley Restaurant,4,36.203022,-119.09175,Chinese Mexican
+230,Cj's Cafe,4,35.119793,-120.58834,American Cafe Coffee Diner Sandwiches
+231,Ernie Jr's Taco House,4,34.14399,-118.22606,Mexican Latin American Vegan Vegetarian
+232,Hob-Nob Hill,4,32.72913213,-117.1637865,American Diner Traditional
+233,Nick's Rockaway,4,37.60986,-122.49698,Seafood American
+234,Baskin-Robbins,5,33.889099,-118.114998,American Ice Cream Juices Smoothies
+235,Baskin-Robbins,2,37.32019,-120.484116,Ice Cream American
+236,Baskin-Robbins,2,38.5821,-121.317001,Ice Cream American
+237,Baskin-Robbins,3.5,40.565448,-122.353105,American Ice Cream
+238,Baskin-Robbins,5,34.119639,-117.557759,American Ice Cream
+239,Baskin-Robbins,3.5,33.637699,-117.864197,American Ice Cream Deli
+240,Baskin-Robbins,4.5,38.715264,-121.291114,Ice Cream American Seafood
+241,Baskin-Robbins,3,34.1521,-118.361,Ice Cream American
+242,Baskin-Robbins,4.5,38.110084,-122.238661,Ice Cream American
+243,Baskin-Robbins,1.5,35.318532,-119.027567,Ice Cream American French Mediterranean
+244,Lyons English Grille,4,33.801592,-116.545091,British Irish American English European
+245,Nifty Drive-In,4,37.73795,-120.93735,American Burgers Fast Food Sandwiches
+246,Togo's,4,38.782807,-121.2664176,Sandwiches American Subs Wraps
+247,Vince's Spaghetti,4.5,34.105631,-117.62539,Italian
+248,Vince's Spaghetti Express,4,34.0633,-117.672714,Italian Mediterranean Pasta
+249,Andiamo Pizzeria,3.5,33.917154,-118.41582,Pizza Italian Sandwiches Pasta
+250,Anthony's Fish Grotto - Harbor Drive,3.5,32.71948,-117.17312,Seafood American
+251,Arroyo's Cafe,4,37.985336,-121.336768,Mexican Cafe
+252,Baja Fresh,4.5,32.810799,-117.116997,Mexican Fast Food Southwestern
+253,Baskin and Robbins 31 Flavors,3.5,33.7879147,-117.8087168,American Ice Cream
+254,Baskin-Robbins,4.5,37.95619,-121.9670391,Ice Cream American
+255,Baskin-Robbins,2.5,32.610854,-117.068653,Ice Cream American Bakery
+256,Baskin-Robbins,2,33.792208,-118.332914,American Ice Cream
+257,Baskin-Robbins,2,33.910301,-118.326449,American Ice Cream Diner
+258,Baskin-Robbins,4,34.032018,-117.68956,Ice Cream American Bakery Mediterranean
+259,Baskin-Robbins,4,37.966126,-121.781034,American Ice Cream
+260,Baskin-Robbins,2.5,37.3088,-121.900002,Ice Cream American Bakery Chicken Pan Asian
+261,Baskin-Robbins,4,34.243033,-118.467379,Ice Cream American
+262,Baskin-Robbins,4,37.2205846,-121.8620685,Ice Cream American Latin American
+263,Baskin-Robbins,2.5,33.644637,-117.919377,American Fast Food Hot Dogs Ice Cream
+264,Baskin-Robbins,4.5,37.013481,-121.584788,Ice Cream American French Mediterranean
+265,Baskin-Robbins,2.5,34.272186,-119.257562,Ice Cream American Bakery Mediterranean
+266,Baskin-Robbins,3,33.696633,-117.79759,American Ice Cream
+267,Baskin-Robbins,4,32.743712,-116.971483,American Ice Cream
+268,Baskin-Robbins,1,34.262148,-119.211893,Ice Cream American French Mediterranean
+269,Baskin-Robbins,4,34.013437,-118.416412,Ice Cream American
+270,Baskin-Robbins,4,37.379522,-122.1172,American Ice Cream French Mexican
+271,Baskin-Robbins,2.5,37.60411,-122.395956,Ice Cream American Hawaiian Steak
+272,Baskin-Robbins,3,37.705472,-121.934655,American Ice Cream
+273,Baskin-Robbins,2.5,34.043006,-117.847909,Ice Cream American Chicken Juices Smoothies
+274,Baskin-Robbins,1,33.6806965,-118.0036975,Fast Food Ice Cream Vegetarian
+275,Baskin-Robbins,2,33.047528,-117.283222,Ice Cream American French Mexican
+276,Baskin-Robbins,2,33.822488,-118.333178,Ice Cream American Bakery Chicken Pan Asian
+277,Baskin-Robbins,5,37.9894211,-121.3207319,American Ice Cream
+278,Baskin-Robbins,3,35.392106,-118.96281,Ice Cream American
+279,Baskin-Robbins,4,36.576421,-119.626511,American Ice Cream
+280,Baskin-Robbins,3,33.636762,-117.590896,American Ice Cream
+281,Baskin-Robbins,5,33.74246299,-117.8182861,American Ice Cream
+282,Baskin-Robbins,4,37.697515,-121.874603,American Ice Cream
+283,Baskin-Robbins,4,37.274601,-121.848999,Ice Cream American
+284,Baskin-Robbins,3,34.083218,-118.34574,American Ice Cream Bakery
+285,Baskin-Robbins,2.5,33.975688,-117.335897,American Ice Cream Bakery Diner Irish
+286,Baskin-Robbins,3.5,33.85911226,-117.9256,Ice Cream American
+287,Baskin-Robbins,5,38.924684,-121.056028,Ice Cream American Seafood
+288,Baskin-Robbins,3.5,37.26686496,-121.8324888,Ice Cream American French Mediterranean
+289,Baskin-Robbins,4,34.074814,-118.022407,American Ice Cream Diner
+290,Baskin-Robbins,4.5,33.8862,-118.160004,American Ice Cream Bakery
+291,Baskin-Robbins,4,32.937138,-117.099603,Ice Cream American French Mediterranean
+292,Baskin-Robbins,3,37.675666,-120.995179,American Ice Cream
+293,Baskin-Robbins,4,34.126849,-118.26398,Ice Cream Deli Juices Mexican Sandwiches Smoothies
+294,Baskin-Robbins,3,38.941992,-121.094588,Ice Cream American Latin American
+295,Baskin-Robbins,3.5,34.686733,-118.14791,American Ice Cream
+296,Baskin-Robbins,4,37.779868,-121.97158,Ice Cream American Chinese
+297,Baskin-Robbins,4.5,32.86793845,-117.215066,Ice Cream American
+298,Baskin-Robbins,5,38.59569,-121.362598,Ice Cream American
+299,Baskin-Robbins,4,34.06039,-118.446209,Ice Cream American French Mexican
+300,Baskin-Robbins,5,33.759887,-118.010524,American Ice Cream Barbecue Chicken Fast Food Hawaiian Seafood Steak
+301,Baskin-Robbins,4,34.103559,-118.259162,Ice Cream American Bakery
+302,Baskin-Robbins,5,38.33534,-121.953648,Ice Cream American
+303,Baskin-Robbins,5,35.124922,-118.469474,American Ice Cream Deli
+304,Baskin-Robbins,4,37.002899,-121.551461,Ice Cream
+305,Baskin-Robbins,4.5,37.3372079,-122.040276,Ice Cream American Bakery
+306,Baskin-Robbins,4.5,32.823043,-117.101059,Ice Cream American Bakery Mediterranean
+307,Baskin-Robbins,3.5,37.331527,-121.912386,Ice Cream
+308,Baskin-Robbins,4.5,36.699865,-121.618426,Ice Cream American Seafood
+309,Baskin-Robbins,4.5,38.556695,-121.3585049,Ice Cream American Seafood
+310,Baskin-Robbins,5,33.65838,-118.001186,American Ice Cream
+311,California Del Sur Ice Cream,5,36.677281,-121.638254,American Ice Cream
+312,Camacho's Place,5,32.72303,-115.60263,Mexican
+313,Chick-Fil-A,4,33.824444,-118.0853784,Fast Food American Salad Sandwiches Soup Wraps
+314,Dorn's Original Breakers Cafe,3,35.36591,-120.8523,Seafood American
+315,Grand Star Restaurant,4.5,34.0650125,-118.2375035,Chinese Fast Food
+316,Habana,2.5,32.762289,-117.029966,Cuban Continental Italian Seafood
+317,Hong Kong Restaurant,3.5,36.33105,-119.28886,Chinese Asian Burgers
+318,Hotel Bel-Air,4.5,34.086562,-118.445497,French Californian Contemporary American
+319,Jack's Family,4,37.364255,-118.3954579,American
+320,Jakes of Saratoga,4,37.292358,-122.032366,Pizza American
+321,Jj and F Food Store,4.5,37.42593835,-122.147989,Deli
+322,La Paloma Restaurant,3,34.10893,-117.75166,Mexican American Asian Latin American Middle Eastern
+323,Lucci Gourmet Italian American Deli-Bakery,4.5,33.672306,-117.973304,Italian Bakery
+324,Original Tommy's,4,34.186889,-118.451181,Bakery Burgers Fast Food Thai
+325,Original Tommy's,4,34.14902009,-118.12138,Burgers Fast Food
+326,Original Tommy's,4.5,33.716801,-117.970001,Burgers Fast Food Sandwiches Vietnamese
+327,Original Tommy's,4,34.139478,-118.2044578,Burgers Fast Food Healthy Pan Asian Thai
+328,Original Tommy's,3.5,34.101601,-118.317476,Burgers American Fast Food
+329,Original Tommy's,4.5,33.887402,-118.082001,Fast Food American Burgers Deli
+330,Original Tommy's,4.5,34.01231,-118.4830159,American Burgers Fast Food
+331,Pecos Bill's Bar-B-Q,4,34.1595,-118.297997,Barbecue Burgers Chicken Ribs Wings
+332,Robbins Baskin,3.5,37.3881,-122.088997,Ice Cream
+333,Royal Spices Thai Cuisine,3.5,32.752947,-117.208182,Thai Asian Diner
+334,Tarantino's Restaurant On Fisherman's Wharf,3.5,37.808216,-122.415886,Seafood Italian American
+335,Tony's Jacal,4,32.988705,-117.25851,Mexican Seafood Southwestern
+336,Villa Corona,4.5,38.335761,-121.968749,Deli Mexican
+337,Backstage,5,34.016308,-118.4001936,American Burgers Pub Food Californian Contemporary Grill Sandwiches
+338,Crest Liquors,4.5,32.788467,-117.2374,Deli
+339,Langer's Deli,4.5,34.0563295,-42.110338,Deli Diner American Sandwiches Coffee Fast Food Kosher
+340,Lupe's Mexican Restaurant,4,34.17771,-118.85127,Mexican
+341,Panda Express,4,32.77977,-117.0101184,Chinese Fast Food Asian Deli Indian Italian
+342,Ramona's Mexican Delicatessen,4,33.88291,-118.326412,Deli Mexican Sandwiches
+343,San Rafael Joe's,4,37.972965,-122.52634,Italian
+344,Shadowbrook Restaurant Capitola,4.5,36.97393,-121.95542,American Seafood Continental
+345,Sinaloa,2.5,35.37717,-119.01188,Mexican
+346,Sunnyside Cafe,4,37.89089,-122.2875505,American Cafe
+347,The Apple Pan,4,34.040643,-118.427621,American Burgers Diner Fast Food Sandwiches Cafe Coffee Healthy Hot Dogs
+348,Tommy's Joynt,4,37.785703,-122.421492,American Deli Traditional Barbecue German Polish
+349,Tonga Restaurant and Hurricane Bar,3.5,37.7923,-122.41089,American Asian Hawaiian Traditional
+350,Yorkshire Grill,4,34.048872,-118.255632,Burgers Deli Sandwiches American Catering Healthy Salad Soup Wraps
+351,Bancheros Italian Dinners,4,37.686863,-122.102325,Italian Fast Food Mediterranean Pasta
+352,Billy's Deli and Cafe,4.5,33.858224,-118.3679008,Deli Sandwiches American Burgers Coffee French
+353,Billy's Delicatessen Restaurant,4,34.148487,-118.2562477,Deli American Sandwiches Bakery Burgers Cuban
+354,Cassell's Hamburgers,3.5,34.06346976,-118.29361,Burgers
+355,Classic Sichuan Restaurant,4,37.59979,-122.3884249,Asian Chinese Seafood
+356,Coco's Bakery,2,33.872551,-118.24767,American Bakery Healthy Pizza Salad Sandwiches Soup Southern Wings Wraps
+357,Coco's Bakery,2,33.56567,-117.71547,American Bakery Diner Salad Sandwiches Soup Wings Wraps
+358,Coco's Bakery,3,33.78827,-117.9148,American Diner
+359,Coco's Bakery,3,37.961885,-121.99477,Bakery American Salad Sandwiches Soup Wings Wraps
+360,Coco's Bakery,4,33.048076,-117.284304,American
+361,Coco's Bakery,3,33.91393,-117.45766,American Bakery Salad Sandwiches Soup Wings Wraps
+362,Coco's Bakery,2,38.597619,-121.424253,American Bakery Salad Sandwiches Soup Traditional Wings Wraps
+363,Coco's Bakery,4,33.8582,-118.092003,American Bakery Salad Sandwiches Soup Wings Wraps
+364,Coco's Bakery,4,33.747609,-117.005977,American Bakery Salad Sandwiches Soup Wings Wraps
+365,Coco's Bakery,4,32.55852,-117.060147,American Bakery Salad Sandwiches Soup Wings Wraps
+366,Coco's Bakery,1.5,38.664258,-121.273165,American Bakery Salad Sandwiches Soup Traditional Wings Wraps
+367,Coco's Bakery,3.5,33.829569,-118.352394,American Bakery Salad Sandwiches Soup Wings Wraps
+368,Coco's Bakery,3.5,34.06287,-117.19885,American Bakery Salad Sandwiches Soup Wings Wraps
+369,Coco's Bakery,3.5,33.866185,-118.352003,American Bakery Fast Food Healthy Pizza Salad Sandwiches Soup Southern Wings Wraps
+370,Coco's Bakery,4,35.382825,-119.090893,Bakery American Salad Sandwiches Soup Wings Wraps
+371,Coco's Bakery,1,33.91095582,-117.8869148,American Bakery Diner Salad Sandwiches Soup Wings Wraps
+372,Coco's Bakery,3.5,34.380479,-118.571179,American Bakery Diner Salad Sandwiches Soup Wings Wraps
+373,Coco's Bakery,3.5,33.11428,-117.10108,American Bakery Salad Sandwiches Soup Wings Wraps
+374,Coco's Bakery,3,33.802689,-117.924247,American Bakery Californian Diner
+375,Coco's Bakery,3,33.996779,-118.396035,American Bakery Salad Sandwiches Soup Thai Wings Wraps
+376,Coco's Bakery,3.5,34.071319,-117.55642,American Bakery Salad Sandwiches Soup Wings Wraps
+377,Coco's Bakery,3,33.658304,-117.86591,American Diner
+378,Dominick's,4,34.076852,-118.38091,Italian American Mediterranean Pan Asian Traditional
+379,Factor's Deli,4,34.05516145,-118.394688,American Deli Diner Catering Sandwiches
+380,Fish King Seafood and Poultry,4.5,34.156462,-118.241627,Seafood
+381,Frank Amestoy's Bar,5,35.393936,-118.98517,Pub Food
+382,Ho Sai Kai Chinese Restaurant,4.5,34.020324,-118.3090376,Chinese Fast Food Asian Pan Asian
+383,In-N-Out Burger,4.5,34.07793,-117.719667,Burgers American Fast Food
+384,In-N-Out Burger,5,34.151932,-118.448691,Burgers American Fast Food
+385,In-N-Out Burger,4,37.80793171,-122.4179695,American Burgers Fast Food
+386,In-N-Out Burger,4.5,33.752252,-117.884869,Burgers American Fast Food
+387,In-N-Out Burger,4,33.699833,-117.989011,Burgers American Fast Food Hot Dogs
+388,In-N-Out Burger,4,37.2490713,-121.8593176,Burgers American
+389,In-N-Out Burger,4.5,33.650658,-117.84148,Burgers American Fast Food
+390,In-N-Out Burger,4.5,34.107204,-117.686169,Burgers American Fast Food
+391,In-N-Out Burger,4,34.025848,-117.749442,Burgers American Fast Food
+392,In-N-Out Burger,5,34.037558,-117.951543,Burgers American Fast Food
+393,In-N-Out Burger,4,34.185072,-118.315766,Burgers Fast Food American
+394,In-N-Out Burger,4.5,34.145206,-118.03146,Burgers American Fast Food
+395,In-N-Out Burger,5,33.892225,-118.36135,Burgers American Fast Food
+396,In-N-Out Burger,4.5,34.145626,-118.255089,Burgers American Fast Food
+397,In-N-Out Burger,4,34.075034,-117.435042,Burgers American Fast Food Hot Dogs
+398,In-N-Out Burger,4,34.268419,-119.272746,Burgers American Fast Food
+399,In-N-Out Burger,4.5,34.0982393,-118.3416648,Burgers Fast Food American
+400,In-N-Out Burger,4.5,33.953874,-118.39629,Burgers American Fast Food
+401,In-N-Out Burger,4,34.11327,-117.7651,Burgers American Fast Food
+402,In-N-Out Burger,5,36.796033,-119.790218,American Burgers Fast Food Sandwiches
+403,In-N-Out Burger,4,33.649586,-117.84023,Burgers Fast Food Hot Dogs
+404,In-N-Out Burger,4.5,34.063106,-118.448158,Burgers American Fast Food
+405,In-N-Out Burger,4.5,33.694905,-117.8270388,American Burgers Fast Food
+406,In-N-Out Burger,4,37.984631,-121.344434,Burgers American
+407,Kirks Steakburgers,3,37.279178,-121.931287,Burgers American Fast Food Steak
+408,La Tolteca,4.5,34.128563,-117.90757,American Italian Latin American Mexican Pizza
+409,Leo's Mexican Food,4,33.885183,-118.36136,Mexican
+410,Little Joe's Pizzeria,4,37.71836,-122.43961,Pizza Italian American Mexican Latin American Pasta Sandwiches
+411,Luccas Italian Delicatessen,4,37.69556,-122.08073,Deli Italian American Fast Food
+412,Marie Callender's,2,34.157121,-118.264697,American Bakery
+413,Marie Callender's,4,34.149183,-118.103018,American Bakery
+414,Marie Callender's Restaurant,1,33.809105,-117.85082,American Bakery Italian
+415,Mays Chinese Restaurant,3,34.12973,-118.029655,Chinese Asian Hawaiian Pan Asian Taiwanese
+416,Pho CA Dao Restaurant,4,32.91265,-117.1433,Vietnamese Asian Fusion
+417,Racquet Club of Bakersfield,1,35.373501,-119.031662,Bakery
+418,Ranch,4,37.669119,-122.08119,American
+419,Rice Bowl,3,35.37525,-119.01432,Chinese Asian
+420,Royal Hawaiian,3,33.544033,-117.78887,Hawaiian Pacific Rim Polynesian American Barbecue Bistro Burgers Diner Ice Cream Seafood
+421,Taco Lita,4,34.130054,-118.027504,Mexican American
+422,Abalonetti Seafood Trattoria,4,36.60364,-121.893234,Fast Food Italian Pizza Seafood
+423,Albany Bowling Center,3.5,37.896557,-122.30096,American Deli Thai
+424,Bull Pen,3.5,33.818905,-118.385284,Asian Californian Eclectic French Grill Steak
+425,Miceli's,3.5,34.100581,-118.336111,Italian Pizza Healthy Pasta Salad
+426,Norm's Restaurant,4,34.20098605,-118.43045,Diner
+427,Norm's Restaurant,3,34.016914,-118.4879556,Diner American Latin American Mexican Vietnamese
+428,Red Onion Restaurant,4.5,33.77078298,-118.3683481,Mexican Fast Food Southwestern
+429,The Mug,4,34.136105,-117.32193,American Italian Pizza
+430,Central Fish Co. Restaurant,3.5,36.729744,-119.79348,Seafood Japanese Asian Pan Asian
+431,Filippi's Pizza Grotto,4,32.723064,-117.168304,Italian Pizza Continental
+432,Gilda's Restaurant,4,36.96186,-122.02232,American Ribs Sandwiches Steak
+433,Hamburger Hamlet,3.5,34.142166,-118.13226,American Burgers Californian Deli Mexican Salad Sandwiches Seafood Steak
+434,Hamlet Restaurant,4,34.0905,-118.391998,American Burgers Californian Chicken Deli Healthy Vegetarian
+435,John's Garden Fresh Health Store,5,34.035966,-118.6858673,Burgers Hot Dogs Salad Sandwiches
+436,KFC,3,37.492082,-122.242961,Fast Food American Chicken
+437,Magic Lamp Inn,3,34.106201,-117.626526,American Steak
+438,Old Fisherman's Wharf,4,36.603638,-121.89324,Seafood Pasta Steak
+439,Rite-Spot Cafe,3,37.7637085,-122.4151326,American Burgers Italian Pub Food Sandwiches
+440,Roma Italian Deli and Grocery,5,34.161545,-118.1325,Italian Deli
+441,Time Deli and Catering,3.5,37.322368,-121.931916,Deli Sandwiches American Catering Soup
+442,Trevino's Mexican Restaurant,4.5,37.92764246,-122.320604,Mexican
+443,Village Pizza,3,33.295095,-117.222147,Pizza Subs
+444,Young's Ice Cream and Candy Bar,4.5,37.486595,-122.227369,Ice Cream
+445,El Patio Cafe,4.5,33.466425,-117.677447,Mexican
+446,Hacienda Restaurant,1.5,37.931073,-122.322893,Mexican American Asian Chinese
+447,Jack in the Box,1.5,34.062076,-117.749893,Burgers American Fast Food
+448,Jack in the Box,3.5,35.353978,-119.333016,Burgers Fast Food American
+449,Jack in the Box,2.5,37.415501,-121.875,Burgers American Fast Food
+450,Jack in the Box,2.5,36.758298,-119.700899,Burgers Fast Food American Chicken
+451,Jack in the Box,5,38.015302,-121.889264,Burgers American Fast Food Bakery Diner
+452,Jack in the Box,1,34.2219,-118.502264,Burgers American Fast Food
+453,Jack in the Box,5,34.033304,-117.749198,Burgers American Fast Food Chicken
+454,Jack in the Box,3.5,35.605286,-117.672895,American Burgers Fast Food
+455,Jack in the Box,5,34.021198,-118.159923,American Burgers Fast Food Bakery Diner
+456,Jack in the Box,4,33.18273623,-117.292359,American Burgers Fast Food
+457,Jack in the Box,3.5,33.953749,-117.388764,Burgers American Fast Food Bakery Chicken Diner
+458,Jack in the Box,5,34.0019,-117.811164,American Burgers Fast Food
+459,Jack in the Box,3,37.398203,-122.108883,American Burgers Fast Food
+460,Jack in the Box,3.5,34.000453,-118.159259,American Fast Food Burgers
+461,Jack in the Box,3,37.64384,-122.104505,Burgers American Fast Food Chicken
+462,Jack in the Box,3.5,34.259876,-118.429975,American Burgers Fast Food Bakery Diner
+463,Jack in the Box,3,34.107204,-117.829993,American Burgers Fast Food
+464,Jack in the Box,2,39.727408,-121.83899,Burgers American Fast Food Chicken
+465,Jack in the Box,3,34.106775,-117.933857,Fast Food Burgers American Chicken Hot Dogs Mexican
+466,Jack in the Box,4,32.822136,-117.155594,Burgers American Fast Food
+467,Jack in the Box,4,32.67625989,-117.0398507,American Burgers Fast Food Bakery Diner Seafood
+468,Jack in the Box,4,33.802601,-118.001999,American Burgers Fast Food Chicken
+469,Jack in the Box,2,37.83426404,-122.128519,Burgers American Fast Food Bakery Californian Chicken Diner French
+470,Jack in the Box,3,38.595438,-121.383196,American Burgers Fast Food
+471,Jack in the Box,4,33.830399,-117.835999,Burgers American Fast Food
+472,Jack in the Box,1,33.679784,-117.908629,American Burgers Fast Food
+473,Jack in the Box,5,38.583526,-121.41583,American Burgers Fast Food
+474,Jack in the Box,2.5,37.866632,-122.290921,Burgers Fast Food American
+475,Jack in the Box,3.5,37.977931,-120.327244,American Fast Food Burgers
+476,Jack in the Box,1,34.21539545,-118.370848,American Burgers Fast Food Chicken Mexican
+477,Jack in the Box,3,37.787192,-122.409915,Burgers American Fast Food Chicken Seafood Steak
+478,Jack in the Box,5,33.847964,-117.543365,American Burgers Fast Food
+479,Jack in the Box,2,32.555577,-117.051702,Burgers American Fast Food
+480,Jack in the Box,3,34.034505,-118.479319,Fast Food American Burgers
+481,Jack in the Box,3.5,37.525435,-121.986292,Burgers American Fast Food
+482,Jack in the Box,3,34.429849,-119.868777,Burgers American Fast Food
+483,Jack in the Box,4.5,33.9705717,-118.187419,American Burgers Fast Food
+484,Jack in the Box,2,33.62064558,-117.7311015,American Burgers Fast Food
+485,Jack in the Box,2,37.69813,-121.773666,American Burgers Fast Food
+486,Jack in the Box,3,34.182378,-118.169068,Fast Food American Burgers
+487,Jack in the Box,2.5,32.772935,-117.0100528,American Burgers Fast Food
+488,Jack in the Box,4,36.545453,-119.374233,Burgers American Fast Food Hot Dogs
+489,Jack in the Box,3,37.780489,-122.469305,Burgers Fast Food American Chicken Seafood Steak
+490,Jack in the Box,3,37.778106,-122.276323,Burgers Fast Food American Hot Dogs
+491,Jack in the Box,1,37.66538,-121.029337,Fast Food American Burgers
+492,Jack in the Box,4.5,33.94708,-117.301616,Fast Food American Burgers
+493,Jack in the Box,5,38.568382,-121.335842,Burgers American Fast Food
+494,Jack in the Box,3,37.907905,-122.30681,American Burgers Fast Food
+495,Jack in the Box,4,33.0175065,-117.0757227,Burgers Fast Food American
+496,Jack in the Box,1,38.002162,-121.732359,Burgers American Fast Food
+497,Jack in the Box,5,37.962456,-121.763844,American Burgers Fast Food
+498,Jack in the Box,2,34.096047,-117.907329,American Burgers Fast Food
+499,Jack in the Box,4,35.120866,-120.600694,Burgers Fast Food American Mexican
+500,Jack in the Box,3,37.354662,-121.946398,Burgers American Fast Food
+501,Jack in the Box,2,33.68406594,-117.16773,American Burgers Fast Food
+502,Jack in the Box,1.5,37.355914,-118.39522,Burgers American Fast Food
+503,Jack in the Box,4.5,37.388199,-120.737106,American Burgers Fast Food
+504,Jack in the Box,5,35.451803,-119.074819,American Burgers Fast Food
+505,Jack in the Box,2,33.649063,-117.577191,Burgers Fast Food American Chicken
+506,Jack in the Box,3.5,38.26493497,-122.034195,Burgers American Fast Food
+507,Jack in the Box,2,40.792105,-124.178033,Burgers American Fast Food
+508,Jack in the Box,4.5,34.106177,-117.436311,Burgers American Fast Food
+509,Jack in the Box,2.5,34.517062,-117.312917,Burgers American Fast Food Hot Dogs
+510,Jack in the Box,4,38.422765,-121.448635,American Burgers Fast Food
+511,Jack in the Box,3,33.896475,-118.252318,Burgers American Fast Food
+512,Jack in the Box,4,33.901953,-117.225728,American Burgers Fast Food
+513,Jack in the Box,5,34.00364,-118.256775,American Burgers Fast Food
+514,Jack in the Box,4.5,34.28119098,-118.7943238,American Burgers Fast Food
+515,Jack in the Box,3.5,33.648499,-117.837997,American Burgers Fast Food
+516,Jack in the Box,4,34.273103,-119.265555,Burgers Fast Food American
+517,Jack in the Box,4,34.071271,-117.489402,Burgers American Fast Food
+518,Jack in the Box,4,37.68662,-122.13905,Burgers Fast Food American Sandwiches
+519,Jack in the Box,3.5,33.948558,-118.08919,Fast Food American Burgers
+520,Jack in the Box,4,36.517277,-119.562941,Burgers American Fast Food
+521,Jack in the Box,3,33.985953,-117.341348,American Burgers Fast Food
+522,Jack in the Box,4,34.129147,-117.890478,Burgers Fast Food American Chicken
+523,Jack in the Box,3,32.67202,-115.498644,American Burgers Fast Food
+524,Jack in the Box,3.5,32.799958,-116.935271,American Burgers Fast Food
+525,Jack in the Box,3,33.894811,-118.353053,Burgers American Fast Food Barbecue Chicken
+526,Jack in the Box,4,33.203484,-117.365736,American Burgers Fast Food
+527,Jack in the Box,2.5,32.94927,-117.24564,American Burgers Fast Food
+528,Jack in the Box,1,33.22784901,-117.325078,American Burgers Fast Food
+529,Jack in the Box,4,34.218175,-119.049139,American Burgers Fast Food
+530,Jack in the Box,2.5,33.995088,-118.395429,Burgers Fast Food American
+531,Jack in the Box,3.5,37.743686,-122.195735,Burgers American Fast Food
+532,Jack in the Box,4,33.147574,-117.107942,American Burgers Fast Food
+533,Jack in the Box,4,38.164455,-122.253296,Burgers Fast Food American
+534,Jack in the Box,3,34.045384,-118.030339,American Burgers Fast Food Sushi
+535,Jack in the Box,5,33.902199,-118.115997,Burgers Fast Food American
+536,Jack in the Box,3.5,37.695437,-122.081735,American Burgers Fast Food
+537,Jack in the Box,5,33.998033,-117.483637,American Burgers Fast Food
+538,Jack in the Box,3,34.6758,-118.147803,Burgers American Fast Food
+539,Jack in the Box,2,33.759526,-118.133806,American Burgers Fast Food
+540,Jack in the Box,4,33.916725,-118.072677,Burgers American Fast Food
+541,Jack in the Box,3,37.32348,-121.958176,American Fast Food Burgers
+542,Jack in the Box,5,37.960348,-121.981821,American Burgers Fast Food
+543,Jack in the Box,3,38.013492,-121.86943,American Burgers Bakery Diner Fast Food
+544,Jack in the Box,1.5,34.087788,-118.175369,Fast Food Burgers American Chicken
+545,Jack in the Box,3.5,38.660999,-121.364409,American Burgers Fast Food
+546,Jack in the Box,4,33.890673,-117.20797,American Burgers Fast Food
+547,Jack in the Box,1,32.78038,-116.958401,American Burgers Fast Food
+548,Jack in the Box,4.5,35.392988,-118.949305,American Fast Food Burgers
+549,Jack in the Box,5,37.678827,-120.975223,American Fast Food Burgers
+550,Jack in the Box,3.5,34.105854,-117.548639,Burgers American Fast Food
+551,Jack in the Box,4.5,34.076944,-118.151474,Fast Food American Burgers
+552,Jack in the Box,4,32.855481,-116.972103,Burgers Fast Food American Chicken
+553,Jack in the Box,4,34.01770921,-117.5058603,Burgers American Fast Food
+554,Jack in the Box,3,36.794084,-119.862294,American Fast Food Burgers
+555,Jack in the Box,4,33.883955,-118.396374,Burgers American Fast Food
+556,Jack in the Box,1.5,38.617468,-121.328953,Fast Food Burgers American Sandwiches
+557,Jack in the Box,2.5,33.737184,-117.955184,American Burgers Fast Food
+558,Jack in the Box,5,33.931258,-118.360522,Burgers American Fast Food
+559,Jack in the Box,3,37.425447,-122.147265,Burgers Fast Food American Chicken
+560,Jack in the Box,3,34.011084,-118.301581,American Burgers Fast Food
+561,Jack in the Box,3,37.338155,-121.992544,Burgers Fast Food American
+562,Jack in the Box,1,33.87325386,-118.292103,American Burgers Fast Food
+563,Jack in the Box,1,33.209527,-117.234538,American Burgers Fast Food
+564,Jack in the Box,3.5,38.410236,-122.713835,American Fast Food Burgers Bakery Diner
+565,Jack in the Box,2.5,37.2369,-121.799004,American Fast Food Burgers
+566,Jack in the Box,4.5,37.951427,-122.060576,Burgers Fast Food American Chicken
+567,Jack in the Box,3,37.693459,-122.464633,Burgers Fast Food American
+568,Jack in the Box,4,37.293237,-121.874309,American Burgers Fast Food
+569,Jack in the Box,2.5,37.711029,-121.926998,American Burgers Fast Food
+570,Jack in the Box,4,33.883592,-116.5012673,American Burgers Fast Food
+571,Jack in the Box,1.5,32.749808,-117.243492,Burgers American Fast Food
+572,Jack in the Box,3,33.877959,-117.7537881,American Burgers Fast Food Bakery Diner
+573,Jack in the Box,2.5,33.841099,-117.889,American Burgers Fast Food
+574,Jack in the Box,5,33.916623,-118.274326,American Burgers Fast Food
+575,Jack in the Box,4,32.75492191,-117.04727,American Burgers Fast Food
+576,Jack in the Box,4,34.471493,-117.191765,American Burgers Fast Food Mexican
+577,Jack in the Box,4.5,33.929431,-118.211193,Fast Food American Burgers
+578,Jack in the Box,2.5,38.0105,-122.282139,American Burgers Fast Food
+579,Jack in the Box,3,38.707903,-121.272427,Fast Food American Burgers
+580,Jack in the Box,1,33.95130796,-118.1825441,Burgers American Fast Food
+581,Jack in the Box,2.5,37.76228,-122.244453,Burgers Fast Food American
+582,Jack in the Box,5,33.132743,-117.062946,American Burgers Fast Food
+583,Jack in the Box,4,33.92542,-116.88513,American Burgers Fast Food
+584,Jack in the Box,3.5,34.025497,-118.355101,Fast Food American Burgers
+585,Jack in the Box,2.5,33.725436,-117.989704,Burgers American Fast Food
+586,Jack in the Box,3.5,33.954021,-118.205824,Burgers Fast Food American
+587,Jack in the Box,3,37.628451,-121.01145,American Fast Food Burgers
+588,Jack in the Box,4,40.555098,-122.388783,American Burgers Fast Food
+589,Jack in the Box,5,32.978026,-117.088714,American Burgers Fast Food
+590,Jack in the Box,2.5,33.83500721,-117.9170591,American Burgers Fast Food
+591,Jack in the Box,4.5,33.521002,-117.164408,American Fast Food Burgers
+592,Jack in the Box,2.5,32.794701,-116.966003,Burgers American Fast Food
+593,Jack in the Box,3,33.60866,-114.605167,American Burgers Fast Food
+594,Jack in the Box,1,33.942963,-118.254438,Burgers American Fast Food
+595,Jack in the Box,4,33.848301,-117.942001,Burgers American Fast Food
+596,Jack in the Box,3.5,33.738515,-118.291858,American Burgers Fast Food
+597,Jack in the Box,3.5,36.065884,-119.025814,Burgers American Fast Food Chinese
+598,Jack in the Box,1,37.768396,-120.844234,Burgers American Fast Food
+599,Jack in the Box,5,34.05591,-117.670481,American Burgers Fast Food
+600,Jack in the Box,4.5,37.8511,-122.2600352,Burgers Fast Food American
+601,Jack in the Box,3,36.853128,-121.398584,American Burgers Fast Food
+602,Jack in the Box,4,33.859934,-118.142857,Burgers American Fast Food
+603,Jack in the Box,2.5,33.022896,-117.283256,Burgers Fast Food American Mexican
+604,Jack in the Box,4,34.077973,-117.620672,Burgers American Fast Food
+605,Jack in the Box,4,32.855998,-116.929128,Fast Food American Burgers
+606,Jack in the Box,2.5,32.584183,-117.114592,Burgers Fast Food American
+607,Jack in the Box,4,33.942498,-117.989701,American Burgers Fast Food
+608,Jack in the Box,3,33.721901,-117.771004,American Burgers Fast Food
+609,Jack in the Box,2,32.623942,-117.07311,Burgers Fast Food American
+610,Jack in the Box,5,34.190047,-118.388151,Burgers American Fast Food Chicken
+611,Jack in the Box,4,32.77536,-115.55233,Burgers American Fast Food
+612,Jack in the Box,3,33.93055,-118.282367,American Burgers Fast Food
+613,Jack in the Box,2.5,34.01979898,-118.4913254,American Burgers Fast Food
+614,Jack in the Box,2.5,37.631343,-122.07536,American Burgers Fast Food
+615,Jack in the Box,1,33.916917,-117.270989,American Burgers Fast Food
+616,Jack in the Box,4,34.42635,-119.68538,American Burgers Fast Food
+617,Jack in the Box,4,34.048361,-117.967906,Burgers American Fast Food Mexican
+618,Jack in the Box,1.5,32.714001,-117.013,Burgers American Fast Food Seafood
+619,Jack in the Box,3.5,38.430733,-122.725854,American Burgers Fast Food
+620,Jack in the Box,3,37.332539,-121.88447,American Burgers Fast Food
+621,Jack in the Box,4,35.355598,-119.061651,Fast Food American Burgers Hot Dogs
+622,Jack in the Box,5,33.878656,-117.594706,American Burgers Fast Food
+623,Jack in the Box,3,34.440126,-119.744206,Burgers American Fast Food
+624,Jack in the Box,2,34.426174,-117.377163,Burgers American Fast Food
+625,Jack in the Box,4,32.800919,-117.235023,American Burgers Fast Food
+626,Jack in the Box,3.5,32.784388,-117.155476,American Burgers Fast Food Salad Sandwiches
+627,Jack in the Box,1,33.72965,-118.023272,American Burgers Fast Food
+628,Jack in the Box,2.5,37.463075,-122.225382,Burgers Fast Food American
+629,Jack in the Box,3,38.512402,-121.4090927,American Burgers Fast Food
+630,Jack In The Box,2.5,37.292521,-121.834053,American Burgers Fast Food
+631,Jack in the Box,3.5,34.216487,-118.225747,American Fast Food Burgers Indian
+632,Jack in the Box,2,33.996416,-117.905682,American Burgers Fast Food
+633,Jack in the Box,3.5,32.789772,-117.167551,American Burgers Fast Food Bakery Diner
+634,Jack in the Box,3,33.78920141,-118.3083504,American Burgers Fast Food
+635,Jack in the Box,4,35.32442,-119.056267,American Fast Food Burgers
+636,Jack in the Box,3,34.106308,-117.489061,Burgers American Fast Food
+637,Jack in the Box,3.5,34.041642,-117.628539,Fast Food American Burgers
+638,Jack in the Box,3.5,37.513164,-121.942662,American Burgers Fast Food
+639,Jack in the Box,5,37.994816,-121.783464,American Burgers Fast Food
+640,Jack in the Box,4,37.732677,-120.956628,American Fast Food Burgers
+641,Jack in the Box,3,37.832604,-122.263518,American Burgers Fast Food
+642,Jack in the Box,4.5,37.309041,-121.90051,Burgers Fast Food American
+643,Jack in the Box,3,33.676208,-117.75784,Burgers Fast Food American
+644,Jack in the Box,3,33.974434,-117.375307,Burgers American Fast Food Chicken
+645,Jack in the Box,2.5,37.66592283,-122.45133,Burgers American Fast Food
+646,Jack in the Box,4,33.762929,-118.007628,American Burgers Fast Food
+647,Jack in the Box,4.5,33.55744,-117.72378,Burgers American Fast Food
+648,Jack in the Box,4,38.52,-121.498703,Burgers American Fast Food
+649,Jack in the Box,3,38.110335,-122.228347,Burgers American Fast Food
+650,Jack in the Box,4,33.622575,-117.938822,American Burgers Fast Food
+651,Jack in the Box,3.5,37.996359,-122.284873,American Burgers Fast Food Bakery Diner
+652,Jack in the Box,3.5,34.080834,-117.689152,Burgers American Fast Food
+653,Jack in the Box,3.5,38.116015,-121.304854,American Burgers Fast Food
+654,Jack in the Box,4.5,33.128335,-117.093315,American Burgers Fast Food
+655,Jack in the Box,2,33.99326643,-117.0603293,American Fast Food Burgers
+656,Jack in the Box,3.5,33.82232275,-118.18503,American Burgers Fast Food
+657,Jack in the Box,2,33.759626,-118.146308,American Burgers Fast Food
+658,Jack in the Box,1,39.72694,-121.802731,Burgers American Fast Food
+659,Jack in the Box,3,33.616681,-117.705055,Burgers American Fast Food
+660,Jack in the Box,3,34.25438,-119.210739,American Burgers Fast Food
+661,Jack in the Box,2.5,34.01888628,-118.407488,American Burgers Fast Food
+662,Jack in the Box,2,33.662987,-117.896948,Burgers American Fast Food
+663,Jack in the Box,3,34.033398,-118.291849,American Fast Food Burgers
+664,Jack in the Box,3,35.379689,-119.018369,American Fast Food Burgers
+665,Jack in the Box,3.5,34.074795,-118.017118,American Burgers Fast Food
+666,Jack in the Box,4.5,36.668561,-121.655682,Burgers Fast Food American
+667,Jack in the Box,5,34.098912,-117.593476,American Burgers Fast Food
+668,Jack in the Box,4.5,34.028948,-117.61137,American Burgers Fast Food
+669,Jack in the Box,3.5,36.687237,-121.79862,American Burgers Fast Food
+670,Jack in the Box,3,37.64781,-122.41894,American Burgers Fast Food
+671,Jack in the Box,4.5,33.615924,-117.679474,Burgers American Fast Food
+672,Jack in the Box,3.5,34.131809,-118.00127,Burgers American Fast Food
+673,Jack in the Box,3.5,32.602901,-117.065002,American Burgers Fast Food
+674,Jack in the Box,4,35.638374,-120.691943,American Burgers Fast Food Bistro French
+675,Jack in the Box,2,36.733809,-119.728502,American Burgers Fast Food
+676,Jack in the Box,2.5,37.417226,-122.130684,Burgers Fast Food American
+677,Jack in the Box,3,33.58336877,-117.6319778,Burgers American Fast Food
+678,Jack in the Box,4,35.311398,-119.091312,American Fast Food Burgers
+679,Jack in the Box,2,33.94792,-118.11735,Burgers Fast Food American
+680,Jack in the Box,3.5,39.762438,-121.622956,American Burgers Fast Food Chicken
+681,Jack in the Box,4,33.819915,-117.226574,American Burgers Fast Food
+682,Jack in the Box,4,34.062714,-117.70587,Burgers American Fast Food
+683,Jack in the Box,1.5,32.658528,-117.040629,American Burgers Fast Food
+684,Jack in the Box,2.5,33.18319,-117.336784,American Burgers Fast Food
+685,Jack in the Box,3,34.185299,-118.13153,Fast Food Burgers American Chicken Mexican
+686,Jack in the Box,1.5,35.287607,-120.664397,Fast Food Burgers American Sandwiches
+687,Jack in the Box,4.5,33.1003,-117.311996,American Burgers Fast Food
+688,Jack in the Box,3,33.13191712,-117.2291139,American Burgers Fast Food
+689,Jack in the Box,3.5,37.401813,-122.078519,American Burgers Fast Food
+690,Jack in the Box,3,34.89513,-117.005686,Burgers American Fast Food
+691,Jack in the Box,4,34.145959,-118.121219,Burgers American Fast Food
+692,Jack in the Box,4,37.95469188,-122.0410553,American Burgers Fast Food
+693,Jack in the Box,5,34.9183685,-120.435716,Burgers American Fast Food
+694,Jack in the Box,2.5,34.107509,-117.658689,Burgers American Fast Food
+695,Jack in the Box,1,38.248909,-122.065314,Burgers American Fast Food
+696,Jack in the Box,4.5,37.999121,-121.8054897,American Burgers Fast Food
+697,Jack in the Box,3,34.034189,-117.051528,Burgers American Fast Food
+698,Jack in the Box,2,34.0487748,-117.4347121,American Burgers Fast Food Mexican
+699,Jack in the Box,3,33.84745758,-117.97614,American Burgers Fast Food
+700,Jack in the Box,4,33.161857,-117.344094,American Burgers Fast Food
+701,Jack in the Box,1,38.596376,-121.411058,Burgers American Fast Food
+702,Jack in the Box,2,34.135407,-117.207572,Burgers American Fast Food
+703,Jack in the Box,4,33.960169,-118.376369,Burgers American Fast Food
+704,Norms,3,33.869377,-118.14252,American Diner
+705,Smoke House,3.5,37.85317898,-122.26014,Burgers Fast Food American Steak Barbecue Hot Dogs
+706,The Crab Cooker,4,33.60977,-117.92825,Seafood
+707,The Derby,4.5,34.140047,-118.02442,Steak American Bakery Thai
+708,Wendys,2.5,33.798948,-118.071465,American Burgers Fast Food Soup
+709,Baker's Burgers,4.5,33.92831,-116.97718,Burgers American Californian Fast Food Hot Dogs Sandwiches
+710,Bob's Big Boy,3.5,34.152584,-118.34641,American Burgers Diner Coffee Californian Fast Food Hot Dogs Salad Sandwiches Seafood Steak
+711,Brad's Restaurant,4.5,35.140083,-120.64222,American Seafood
+712,Chris and Pitts Restaurants,4,33.9715,-118.069534,Barbecue
+713,Churchs Chicken,3,33.897468,-118.252556,Southern
+714,Churchs Chicken,5,33.888187,-118.082357,Fast Food American Chicken Southern Wings
+715,Churchs Chicken,4,37.88197,-122.29669,Chicken Fast Food American Wings
+716,Churchs Chicken,4.5,33.945471,-118.343394,Fast Food American Chicken Burgers Deli Soul Food Thai Wings
+717,Churchs Fried Chicken,5,33.959966,-118.256757,Chicken
+718,El Zarape Restaurant,5,39.14266,-121.62785,Mexican
+719,Far East Cafe,3.5,40.5903135,-122.3581295,Cafe Chinese Middle Eastern
+720,Fatburger,4,34.017683,-118.499004,Burgers American Fast Food Pizza
+721,Fatburger,2,34.024121,-118.278174,Burgers American Fast Food Hot Dogs Mediterranean Pizza
+722,La Mascota Bakery,4.5,34.032501,-118.210999,Bakery French Mexican Chicken Pan Asian
+723,Melody Bar and Grill,4,33.95399,-118.39613,American Pub Food Sandwiches
+724,Mexico Cafe,3.5,34.135895,-117.266593,Mexican
+725,Ming's,4,33.870995,-118.12512,Chinese
+726,Nation's Giant Hamburgers and Great Pies,3.5,37.8607221,-122.1269313,Burgers Bakery Sandwiches Fast Food Hot Dogs Salad
+727,Nation's Giant Hamburgers and Great Pies,4,37.648903,-122.090195,Burgers American Diner
+728,Nation's Giant Hamburgers and Great Pies,2,38.109724,-122.255085,Burgers Sandwiches
+729,Nation's Giant Hamburgers and Great Pies,4.5,37.96238,-121.985389,Burgers American Bakery Hot Dogs Sandwiches
+730,Nations Giant,4,38.296051,-122.287848,Burgers Hot Dogs American Bakery
+731,Nicolosis Italian Restaurant,4,32.78157,-117.08319,Italian Pizza European
+732,Pine Cone Restaurant,3,38.402941,-122.824732,American Indian
+733,Rappa's Seafood Restaurant,4,36.60385,-121.89308,Seafood
+734,Sire Restaurants,4,33.9551926,-117.39542,American
+735,The Grant Grill,4.5,32.715694,-117.16174,American Californian French Mediterranean Traditional
+736,The Original Tops,4,34.146817,-118.069,Fast Food American Burgers
+737,The Plumed Horse,3.5,37.256466,-122.03501,Californian French American European Contemporary Fast Food
+738,Tony's On The Pier,4,33.839035,-118.39126,Seafood
+739,Acapulco Restaurant,4,37.769455,-122.24775,Mexican American Fast Food
+740,Bob's Footlongs,4.5,40.59648112,-124.15448,Asian Korean
+741,Caruso's Corner Family Restaurant,3.5,36.59607,-121.86358,Pizza Italian
+742,Denny's Cafe,4.5,37.780474,-122.478725,Chinese American Asian Mediterranean Pan Asian Vietnamese
+743,Dennys,4.5,34.95308,-120.42012,American Burgers Diner Fast Food Sandwiches Traditional
+744,Dennys,3,36.737762,-119.700191,American Burgers Diner Sandwiches
+745,Dennys,2.5,33.986599,-118.400532,American Diner Burgers
+746,Dennys,4,38.346636,-120.772453,American Diner
+747,Dennys,4,33.620953,-117.701506,Diner
+748,Dennys,3,34.5545959,-118.0448507,American Bakery Diner Bistro Grill Traditional
+749,Dennys,2.5,37.386398,-121.860001,American Diner Burgers
+750,Dennys,2,33.747403,-116.990433,American Burgers Diner
+751,Dennys,4,34.19432,-118.348987,Diner
+752,Dennys,3,34.17142868,-118.4663907,American Burgers
+753,Dennys,3,33.808352,-118.125196,American Diner
+754,Dennys,2,32.744469,-116.931703,American Diner
+755,Dennys,3,33.927738,-116.9459711,American Burgers Diner Ice Cream Seafood
+756,Johnnie's Pastrami Restaurant,4,34.008303,-118.413618,American Deli Sandwiches Steak Burgers Diner Fast Food Hot Dogs Mexican Pan Asian
+757,Mitchell's Ice Cream,4.5,37.74425,-122.42255,Ice Cream
+758,Original Pancake House,4,38.785463,-121.276031,American
+759,Ramsey's At The Club,4.5,34.1451976,-118.3392334,American
+760,Sherman's Deli and Bakery,4.5,33.75782,-116.388,Bakery Deli
+761,Sonic Drive-In,3.5,33.857825,-117.919846,American Burgers Fast Food Hot Dogs
+762,Sonic Drive-In,3.5,39.141058,-121.630206,Burgers American Fast Food
+763,Sonic Drive-In,3,36.837405,-119.680083,Burgers American Fast Food Hot Dogs
+764,Sonic Drive-In,4,37.360397,-120.61241,Burgers American Fast Food Hot Dogs
+765,Sonic Drive-In,3.5,37.664557,-120.993934,American Burgers Fast Food
+766,Sonic Drive-In,2,35.500304,-119.272205,American Burgers Fast Food Hot Dogs
+767,Sonic Drive-In,3,37.758236,-121.46231,American Burgers
+768,Sonic Drive-In,4,37.666647,-121.030451,American Burgers Fast Food
+769,Taylor's Steakhouse,4,34.20348,-118.19796,Steak American Mexican Middle Eastern Seafood Tapas
+770,The Jetty Restaurants,2.5,34.883485,-120.435784,Seafood American
+771,Trellises Garden Grille,4,32.762732,-117.1683262,American Barbecue Contemporary Seafood Steak
+772,Acapulco Cafe,4,33.83153,-118.30178,Mexican
+773,Alpine Drive in,4.5,40.882132,-121.665122,American Burgers Fast Food Sandwiches
+774,Angelo's Drive-In,3,36.757599,-119.82017,American Burgers Sandwiches
+775,Astro Family Restaurant,3.5,34.10452,-118.25909,American Diner Coffee Seafood Traditional
+776,Bigs Restaurants,3,33.917099,-118.089996,Pizza Italian
+777,Burger King,1,37.628766,-122.04727,Burgers American Fast Food
+778,Burger King,3.5,34.127102,-118.258003,American Burgers Fast Food
+779,Burger King,3,34.221385,-119.177916,Burgers Fast Food American Hot Dogs
+780,Burger King,4,37.760122,-121.462273,Burgers American Fast Food
+781,Burger King,2.5,34.14533,-118.75958,Burgers American Fast Food
+782,Burger King,1.5,36.730729,-119.800201,American Burgers Fast Food
+783,Burger King,2.5,38.45402,-122.717314,American Burgers Fast Food
+784,Burger King,4.5,37.638671,-120.930454,Burgers Fast Food American
+785,Burger King,1.5,37.689114,-121.030051,Burgers Fast Food American
+786,Burger King,1,37.902188,-122.304115,American Burgers Fast Food
+787,Burger King,1,33.77884413,-118.2738948,American Burgers Fast Food
+788,Burger King,3,37.803217,-122.271813,Burgers Fast Food American
+789,Burger King,1,35.209297,-118.834872,American Burgers Fast Food
+790,Burger King,3,33.80471938,-118.1891584,Burgers Fast Food American Chicken Sandwiches
+791,Burger King,4,34.426834,-117.572731,Burgers Fast Food American Hot Dogs
+792,Burger King,3,34.37800361,-118.5636753,American Burgers Fast Food
+793,Burger King,4,33.604905,-114.605987,Burgers American Fast Food
+794,Burger King,2,34.06053923,-118.2443261,Fast Food Burgers
+795,Burger King,4,34.153543,-118.258333,Burgers American Fast Food
+796,Burger King,2.5,33.48944194,-117.698679,Burgers American Fast Food Seafood
+797,Burger King,3,36.051042,-119.025915,Burgers American Fast Food
+798,Burger King,2.5,37.320301,-121.973999,Burgers Fast Food American
+799,Burger King,2,33.92895321,-116.9472876,American Fast Food Burgers
+800,Burger King,3.5,37.513875,-122.254144,Burgers American Fast Food
+801,Burger King,1.5,38.527682,-121.44437,American Burgers Fast Food
+802,Burger King,2,37.936603,-121.697283,Burgers Fast Food American
+803,Burger King,2.5,34.06297624,-118.0907911,Burgers American Fast Food Chinese Seafood
+804,Burger King,5,36.327551,-119.64954,American Burgers Fast Food
+805,Burger King,3,39.141559,-121.622636,American Burgers Fast Food
+806,Burger King,3,40.939556,-124.099958,Burgers American Fast Food
+807,Burger King,1,34.279342,-118.738613,Burgers American Fast Food
+808,Burger King,2.5,36.313273,-119.78223,American Burgers Fast Food
+809,Burger King,2.5,33.6996064,-117.8348236,American Burgers Fast Food
+810,Burger King,2.5,34.076903,-117.689961,Burgers American Fast Food
+811,Burger King,2.5,37.360455,-120.61388,American Burgers Fast Food
+812,Burger King,5,34.078445,-117.719271,American Burgers Fast Food
+813,Burger King,4,38.00562,-121.755602,American Burgers Fast Food
+814,Burger King,2.5,37.352536,-121.958584,Burgers Fast Food American Sandwiches
+815,Burger King,3,34.105167,-117.67005,Burgers American Fast Food
+816,Burger King,2.5,34.277722,-119.214147,Burgers American Fast Food
+817,Burger King,4,34.675266,-118.155634,American Burgers Fast Food
+818,Burger King,3,33.856857,-118.168551,American Burgers Fast Food
+819,Burger King,1.5,37.972199,-122.043449,Burgers American Fast Food
+820,Burger King,4,33.750834,-117.867094,Burgers American Fast Food
+821,Burger King,3,37.402271,-122.112879,Burgers American Fast Food
+822,Burger King,1,35.317902,-119.030621,Burgers American Fast Food
+823,Burger King,2.5,32.6978606,-117.169683,Burgers American Fast Food Mexican
+824,Burger King,2,39.142678,-121.590805,Burgers American Fast Food
+825,Burger King,1.5,34.471405,-117.21406,Burgers American Fast Food
+826,Burger King,3,38.05015679,-122.5321403,Burgers Fast Food American
+827,Burger King,1.5,37.785247,-122.433201,Burgers American Fast Food
+828,Burger King,3,33.9246989,-118.152421,American Burgers Fast Food
+829,Burger King,1,38.76165899,-121.3099194,Burgers American Fast Food Chicken Sandwiches
+830,Burger King,1,38.220924,-122.127096,Burgers American Fast Food
+831,Burger King,2,32.608299,-117.066227,Burgers American Fast Food
+832,Burger King,2,33.508967,-117.127467,Burgers American Fast Food
+833,Burger King,1,36.722033,-121.663614,Burgers Fast Food American Sandwiches
+834,Burger King,1,34.128498,-117.890479,American Burgers Fast Food
+835,Burger King,1.5,37.98321,-122.328686,Burgers American Fast Food
+836,Burger King,2,37.717927,-122.181941,American Burgers Fast Food
+837,Burger King,3,33.950493,-118.1643963,Burgers American Fast Food
+838,Burger King,1,34.281365,-119.301068,American Burgers Fast Food
+839,Burger King,4,33.193164,-117.378397,Burgers American Fast Food
+840,Burger King,5,36.303413,-119.313853,Burgers American Fast Food
+841,Burger King,3.5,34.419638,-117.291579,Burgers American Fast Food
+842,Burger King,3.5,39.1450559,-121.643396,American Burgers Fast Food
+843,Burger King,2,33.787775,-118.139574,American Burgers Fast Food
+844,Burger King,2,33.873148,-118.379499,American Burgers Fast Food
+845,Burger King,4,38.01692493,-121.9424915,Burgers American Fast Food
+846,Burger King,4,38.361177,-121.971677,Burgers American Fast Food Hot Dogs
+847,Burger King,2,34.426614,-118.537308,American Fast Food Burgers
+848,Burger King,2.5,34.097769,-118.120494,American Fast Food Burgers
+849,Burger King,3,34.170895,-118.288927,Burgers American Fast Food
+850,Burger King,5,33.975822,-117.358021,Burgers Fast Food American
+851,Burger King,2,37.69438148,-122.085358,American Burgers Fast Food
+852,Burger King,2.5,33.772033,-118.193164,American Burgers Fast Food
+853,Burger King,3.5,35.6014853,-119.3495299,American Burgers Fast Food
+854,Burger King,2,34.077349,-117.619484,Burgers American Fast Food
+855,Burger King,3.5,37.700032,-122.489711,Burgers American Fast Food Mexican
+856,Burger King,1.5,37.370421,-121.844105,Burgers Fast Food American
+857,Burger King,2,34.21796379,-119.0393919,Burgers Fast Food American Salad
+858,Burger King,1,32.844207,-116.879762,Burgers American Fast Food
+859,Burger King,2.5,37.756834,-122.251245,Burgers Fast Food American
+860,Burger King,3.5,33.86449,-117.543979,Burgers American Fast Food
+861,Burger King,3.5,36.734953,-120.05846,American Burgers Fast Food
+862,Burger King,1,37.962908,-121.273464,Burgers American Fast Food
+863,Burger King,2,34.48624713,-117.290111,American Burgers Fast Food
+864,Burger King,2,34.15658,-118.479524,American Burgers Fast Food
+865,Burger King,3,32.768495,-117.148562,Burgers American Fast Food
+866,Burger King,3.5,34.142502,-118.239113,American Burgers Fast Food
+867,Burger King,1,36.751332,-119.700758,American Fast Food Burgers
+868,Burger King,4,37.7598399,-121.434548,Burgers Fast Food American Hot Dogs
+869,Burger King,1,36.799301,-121.664001,Burgers American Fast Food
+870,Burger King,3.5,37.292319,-121.912832,Burgers American Fast Food
+871,Burger King,2.5,37.772999,-122.216003,Burgers American Fast Food
+872,Burger King,2.5,37.021422,-121.5680283,Burgers Fast Food American
+873,Burger King,4.5,35.1209927,-120.609619,Burgers American Fast Food Seafood
+874,Burger King,1,33.134306,-117.057402,American Burgers Fast Food Californian
+875,Burger King,4,36.202495,-121.129794,Burgers American Fast Food International
+876,Burger King,3,37.964978,-121.779418,American Burgers Fast Food
+877,Burger King,3,32.67764,-117.098066,American Burgers Fast Food Seafood
+878,Burger King,4,34.029514,-117.629156,Burgers American Fast Food
+879,Burger King,3,36.329054,-121.245323,Fast Food American Burgers Pizza
+880,Burger King,2,36.576378,-119.626263,Burgers American Fast Food Steak
+881,Burger King,1.5,33.865155,-118.326792,American Burgers Fast Food
+882,Burger King,3,38.251113,-122.629318,American Burgers Fast Food
+883,Burger King,1.5,37.355707,-121.819238,Burgers American Fast Food
+884,Burger King,2.5,37.766499,-122.178001,Burgers Fast Food American
+885,Burger King,2.5,41.758612,-124.197652,Burgers American Fast Food
+886,Burger King,1,35.353832,-119.058066,Burgers American Fast Food
+887,Burger King,2.5,37.781465,-122.461265,Burgers Fast Food American
+888,Burger King,5,33.528432,-117.15448,Burgers American Fast Food
+889,Burger King,2.5,37.699615,-121.904454,American Burgers Fast Food
+890,Burger King,3,33.810301,-118.2899624,American Burgers
+891,Burger King,3,33.858749,-117.924373,Burgers American Fast Food
+892,Burger King,2.5,36.704838,-121.653851,Burgers American Fast Food
+893,Burger King,3.5,36.687529,-121.799518,American Burgers Fast Food
+894,Burger King,3,40.581712,-124.146278,Burgers American Fast Food
+895,Burger King,3,34.162662,-118.838648,Burgers American Fast Food
+896,Burger King,1,39.360536,-121.68715,American Fast Food Burgers
+897,Burger King,1.5,37.679464,-121.78266,American Burgers Fast Food
+898,Burger King,1.5,40.68044,-122.350424,American Burgers Fast Food
+899,Burger King,3,38.06753,-122.168337,Burgers American Fast Food
+900,Burger King,3.5,37.290583,-121.880565,American Burgers Fast Food
+901,Burger King,3.5,40.586518,-122.401034,Burgers American Fast Food Hot Dogs
+902,Burger King,3,37.772709,-120.829783,American Burgers Fast Food
+903,Burger King,4,34.12132,-117.322332,Burgers Fast Food American Hot Dogs
+904,Burger King,3.5,40.57105,-122.35801,American Fast Food Burgers
+905,Burger King,2,33.70813608,-117.8858221,American Burgers Fast Food
+906,Burger King,2.5,38.41107,-122.713875,Burgers American Fast Food Bakery Diner
+907,Burger King,3,33.224976,-117.332085,Burgers American Fast Food
+908,Burger King,2,37.988244,-121.321942,Burgers American Fast Food
+909,Burger King,1.5,38.65932226,-121.348079,Burgers American Fast Food
+910,Burger King,2,32.862046,-116.922683,Burgers American Fast Food
+911,Burger King,3,33.89598,-118.220546,Burgers Fast Food American
+912,Burger King,2.5,37.279235,-121.83568,Burgers American Fast Food
+913,Burger King,2,34.14013,-117.974866,American Burgers Fast Food Bakery Diner Mexican
+914,Burger King,1,33.375271,-117.251688,Burgers American Fast Food
+915,Burger King,3.5,37.661249,-120.958161,Burgers American Fast Food Mexican
+916,Burger King,2,39.525059,-122.212414,Burgers Fast Food American
+917,Burger King,3.5,35.368151,-120.84262,Burgers American Fast Food International
+918,Burger King,1.5,33.83210852,-118.1620711,Burgers Fast Food American
+919,Burger King,2.5,33.83413627,-117.836565,Burgers American Fast Food
+920,Burger King,3,33.8414186,-118.2855961,American Burgers Fast Food Steak
+921,Burger King,1,33.65723,-118.001999,Burgers Fast Food American
+922,Burger King,1,33.693332,-117.336863,Burgers American Fast Food
+923,Burger King,3,38.014596,-121.891079,Burgers American Fast Food Bakery Diner Sandwiches
+924,Burger King,4,34.099899,-118.073997,American Burgers Fast Food
+925,Burger King,2,32.832793,-117.1498445,Burgers American Fast Food
+926,Burger King,2.5,33.2012621,-117.3701508,Burgers American Fast Food
+927,Burger King,3.5,37.378309,-121.939872,Burgers American Fast Food
+928,Burger King,2,36.977183,-121.965039,Fast Food American Burgers
+929,Burger King,3,33.872884,-118.118102,Burgers American Fast Food Mexican
+930,Burger King,4,33.772524,-116.958215,American Burgers Fast Food
+931,Burger King,1.5,37.324458,-121.911752,American Burgers Fast Food
+932,Burger King,3,39.714377,-121.795667,American Burgers Fast Food
+933,Burger King,1,34.136352,-117.196598,Burgers Fast Food American
+934,Burger King,2,33.782779,-117.958085,American Burgers Fast Food
+935,Burger King,2,33.137369,-117.1797497,American Burgers Fast Food
+936,Burger King,3,36.76175077,-121.7533207,American Burgers Fast Food Fusion Vegetarian
+937,Burger King,4.5,34.075059,-117.890513,Fast Food American Burgers
+938,Burger King,1,34.033535,-117.6872635,American Fast Food Burgers
+939,Burger King,4,33.953975,-118.12892,Burgers American Fast Food
+940,Burger King,2.5,33.572968,-117.7234,Burgers American Fast Food Mexican
+941,Burger King,1.5,37.9353565,-122.3563081,Burgers American Fast Food
+942,Burger King,2,32.87271,-117.237726,American Burgers Fast Food Salad Seafood
+943,Burger King,2,37.219662,-121.861227,American Fast Food Burgers
+944,Burger King,4,40.457546,-122.29488,Burgers Fast Food American
+945,Burger King,3,37.94889,-122.332463,Burgers American Fast Food
+946,Burger King,2.5,37.532711,-121.958591,Burgers American Fast Food
+947,Burger King,3,33.909467,-117.560304,American Burgers Fast Food
+948,Burger King,3,33.853222,-117.998483,American Burgers Fast Food
+949,Burger King,1.5,33.884032,-117.563817,American Fast Food Burgers
+950,Burger King,1,34.066612,-117.322439,Burgers American Fast Food
+951,Burger King,1.5,37.925648,-122.063315,American Burgers Fast Food
+952,Burger King,2.5,37.696983,-121.743687,Burgers American Fast Food
+953,Burger King,2,37.837173,-122.293085,Fast Food American Burgers
+954,Burger King,1.5,36.08054,-119.042473,Burgers American Fast Food
+955,Burger King,2,37.70246369,-121.9330072,American Burgers Fast Food
+956,Burger King,3,33.759332,-116.2971404,Burgers American Fast Food Hot Dogs
+957,Burger King,2,34.040699,-118.050104,American Burgers Fast Food Sushi
+958,Burger King,1,33.134911,-117.120173,American Burgers Fast Food
+959,Burger King,3.5,36.759602,-120.386021,Burgers Fast Food American
+960,Burger King,3,36.663524,-121.656953,Burgers American Fast Food
+961,Burger King,2,34.026036,-118.155934,American Burgers Bakery Fast Food
+962,Burger King,1.5,34.974277,-120.435507,Burgers American Fast Food
+963,Burger King,2.5,33.81615,-116.457042,American Burgers Asian Fast Food
+964,Burger King,2,38.458483,-121.840414,Burgers American Fast Food
+965,Burger King,2,32.560881,-117.062446,American Burgers Fast Food Seafood
+966,Burger King,3,32.812303,-117.153891,American Burgers Fast Food
+967,Burger King,3.5,37.552478,-121.978771,Burgers American Fast Food
+968,Burger King,3,33.747829,-116.993003,American Fast Food Burgers
+969,Burger King,5,32.792421,-115.569932,Burgers American Fast Food
+970,Burger King,2.5,37.775009,-122.413203,Burgers American Fast Food
+971,Burger King,2,37.534163,-122.000205,Burgers Fast Food American
+972,Burger King,2.5,33.678476,-117.83466,American Burgers Fast Food
+973,Burger King,3.5,37.81970501,-121.996018,Burgers Fast Food American Chicken Hot Dogs Sandwiches
+974,Burger King,1,36.77272,-119.754012,American Burgers Fast Food
+975,Burger King,2.5,33.664604,-117.856748,American Burgers Fast Food
+976,Burger King,2.5,34.086484,-118.219498,American Burgers Fast Food
+977,Burger King,3.5,37.973044,-122.062987,Burgers American Fast Food Spanish
+978,Burger King,2.5,38.10557,-122.23136,Burgers American Fast Food Salad
+979,Burger King,2.5,34.2057,-118.224998,American Burgers Fast Food
+980,Burger King,2.5,38.925359,-121.055592,American Burgers Fast Food
+981,Burger King,3.5,37.352194,-121.999717,Burgers American Fast Food
+982,Burger King,5,32.711601,-117.1154246,Burgers American Fast Food
+983,Burger King,3.5,34.58017,-118.082886,Burgers American Fast Food
+984,Burger King,2.5,33.637611,-117.590294,Fast Food American Burgers Bakery
+985,Burger King,3.5,34.106749,-117.826714,Burgers American Fast Food
+986,Burger King,2,39.76117,-121.842187,American Burgers Fast Food
+987,Burger King,2,40.804553,-124.152589,Burgers Fast Food American
+988,Burger King,4,32.584401,-117.108462,Burgers Fast Food American Hot Dogs
+989,Burger King,1,33.724947,-117.989787,Burgers American Fast Food
+990,Burger King,3.5,34.6018,-118.18422,American Burgers Fast Food Bakery Diner
+991,Burger King,2,38.272105,-121.98762,Burgers American Fast Food Mexican
+992,Cibo Ristorante Italiano,3,36.60075594,-121.894129,Italian Fast Food Pizza
+993,Colombo's Italian Steakhouse,4.5,34.139672,-118.207211,Italian Steak Pizza American Burgers Californian
+994,Domenico's Belmont Shore,4,33.758976,-118.1317,Italian Pizza Continental Fast Food Mediterranean Pasta
+995,El Torito,3,33.067184,-117.262519,Mexican Grill
+996,El Torito,2.5,33.183205,-117.329346,Mexican Grill
+997,El Torito,3.5,34.601864,-118.151639,Mexican Deli Grill Hot Dogs Latin American
+998,El Torito,3.5,34.41281,-119.68851,Mexican
+999,El Torito,3,35.365521,-119.054248,Mexican
+1000,El Torito,4,34.18424,-118.87549,Mexican
+1001,El Torito,4,36.614992,-121.899396,Mexican
+1002,El Torito,3,34.06963,-117.571526,Mexican
+1003,El Torito,2,34.072166,-117.876685,Mexican
+1004,El Torito,4,33.889215,-117.518359,Mexican
+1005,El Torito,3,38.6688,-121.271966,Mexican
+1006,El Torito,3,37.433075,-121.8974358,Mexican
+1007,El Torito,3,34.150093,-118.0816,Mexican
+1008,El Torito,4.5,33.81727079,-118.185339,Mexican
+1009,El Torito,2,33.85849199,-118.0296005,Mexican Buffet Chinese Japanese
+1010,El Torito,3,37.598972,-122.36706,Mexican
+1011,El Torito,2.5,32.770521,-117.02566,Mexican South American
+1012,El Torito,3.5,33.527428,-117.14916,Mexican Grill
+1013,El Torito,3,33.81547,-118.3514722,Mexican
+1014,El Torito,3,33.46088507,-117.6946878,Mexican Buffet Japanese Pasta
+1015,El Torito,3,33.86571,-118.09577,Mexican Deli Diner Pizza
+1016,El Torito,4.5,33.012754,-117.078491,Mexican Seafood
+1017,El Torito,4,34.021984,-118.450353,Mexican
+1018,El Torito,2.5,33.926495,-118.353585,Mexican
+1019,El Torito,3,37.38453,-121.97953,Mexican
+1020,El Torito,3,33.871841,-117.740446,Mexican
+1021,El Torito,4.5,37.563,-122.27832,Mexican
+1022,El Torito,2.5,33.83133,-118.08718,Mexican
+1023,El Torito,3.5,33.92593,-117.878564,Mexican Grill
+1024,El Torito,4,33.974407,-118.444814,Mexican
+1025,El Torito,4,33.678902,-117.8591099,Mexican
+1026,El Torito,3.5,32.63669,-117.100483,Mexican Latin American
+1027,El Torito,3,34.089998,-117.670235,Mexican
+1028,El Torito,4,37.96994,-122.0546,Mexican
+1029,El Torito,3,33.7859,-117.890999,Mexican American Grill
+1030,El Torito,2.5,33.852737,-118.14241,Mexican Grill
+1031,El Torito,3.5,33.774743,-117.867456,Mexican
+1032,El Torito,3,32.8699,-117.234001,Mexican Grill
+1033,El Torito,3.5,33.955406,-117.391822,Mexican
+1034,El Torito,2,34.106407,-117.5352,Mexican
+1035,El Torito,3.5,33.752567,-118.106371,Mexican
+1036,El Torito,3,36.739983,-119.78146,Mexican Latin American
+1037,El Torito,3.5,34.41981,-118.58297,Mexican
+1038,El Torito Grill,3.5,33.61615,-117.87858,Mexican Southwestern
+1039,El Torito Grill,4,34.18044,-118.59739,Mexican
+1040,El Torito; Mexican Restaurant and Cantina,3,38.357856,-122.713527,Mexican Latin American
+1041,Marin Joes,3.5,37.92111,-122.51255,Italian Continental American Steak
+1042,McDonald's,3,38.1535186,-121.7035593,American Burgers Fast Food
+1043,McDonald's,2,34.145802,-118.12314,Burgers American Fast Food Sandwiches
+1044,McDonald's,1,36.080539,-119.045348,Burgers American Fast Food Sandwiches
+1045,McDonald's,3,32.706501,-117.009003,Burgers Fast Food American Chicken Hot Dogs Sandwiches Seafood
+1046,McDonald's,1,34.033137,-117.755427,American Burgers Fast Food
+1047,McDonald's,4,40.58676,-122.35098,American Burgers Fast Food
+1048,McDonald's,3.5,34.235806,-118.536482,Burgers American Fast Food Sandwiches
+1049,McDonald's,4,33.979686,-117.972248,Fast Food Burgers American Sandwiches
+1050,McDonald's,2,33.990068,-117.91247,Fast Food American Burgers
+1051,McDonald's,2,37.231715,-121.773151,American Fast Food Burgers
+1052,McDonald's,3,34.078899,-118.053001,Fast Food American Burgers
+1053,McDonald's,1,38.021636,-121.344625,American Burgers Fast Food
+1054,McDonald's,2.5,37.549526,-122.046313,Burgers Fast Food American Sandwiches
+1055,McDonald's,4,38.496086,-121.484243,Burgers American Fast Food
+1056,McDonald's,2.5,33.796917,-117.83567,Fast Food American Burgers Sandwiches
+1057,McDonald's,2,37.872239,-122.26839,Burgers American Fast Food
+1058,McDonald's,3,33.245796,-117.29047,American Burgers Fast Food
+1059,McDonald's,3.5,34.153226,-118.257603,American Burgers Fast Food
+1060,McDonald's,5,33.2319,-117.30742,Burgers Fast Food American
+1061,McDonald's,1.5,33.685544,-117.865227,Burgers Fast Food American
+1062,McDonald's,1,37.603961,-122.069098,American Burgers Fast Food
+1063,McDonald's,3.5,33.94117,-118.048163,American Burgers Fast Food
+1064,McDonald's,2.5,33.984763,-117.7478921,Fast Food American Burgers
+1065,McDonald's,1,33.94102,-118.047688,American Burgers Fast Food
+1066,McDonald's,1,33.9163358,-118.347388,American Burgers Fast Food
+1067,McDonald's,1.5,34.099701,-118.117996,American Burgers Fast Food
+1068,McDonald's,2.5,35.144588,-119.464073,Fast Food Burgers Chicken Sandwiches American
+1069,McDonald's,1,34.106701,-117.490001,Fast Food American Burgers
+1070,McDonald's,3.5,32.6399,-117.098,American Burgers Fast Food
+1071,McDonald's,3.5,33.133479,-117.121201,Burgers Fast Food American Sandwiches
+1072,McDonald's,3,34.031358,-117.914886,Fast Food American Burgers Sandwiches
+1073,McDonald's,1,37.99644169,-122.5345865,American Burgers Fast Food
+1074,McDonald's,3,37.359707,-120.59581,Fast Food American Burgers
+1075,McDonald's,2.5,33.657969,-117.918298,Burgers American Fast Food
+1076,McDonald's,3.5,33.75721,-117.88504,American Fast Food Burgers
+1077,McDonald's,3,34.00107193,-117.722346,Fast Food American Burgers
+1078,McDonald's,2,37.526356,-122.005295,Burgers Fast Food American Sandwiches
+1079,McDonald's,1,34.2284055,-118.555047,American Burgers Fast Food
+1080,McDonald's,3.5,33.986262,-117.871836,Fast Food American Burgers
+1081,McDonald's,3,33.206603,-117.286751,Burgers Fast Food American
+1082,McDonald's,1.5,37.73883,-121.450498,Burgers Fast Food American Sandwiches
+1083,McDonald's,4.5,33.8748642,-118.2486487,American Burgers Fast Food
+1084,McDonald's,4.5,33.928783,-118.147856,Fast Food Burgers American Sandwiches Chicken
+1085,McDonald's,3.5,36.204714,-121.139385,Burgers Fast Food American Chicken Sandwiches International
+1086,McDonald's,2,36.83659,-121.38907,American Burgers Fast Food
+1087,McDonald's,3,34.000867,-118.403284,Burgers Fast Food American Sandwiches Chicken
+1088,Mermaid Restaurant,3.5,33.861984,-118.40147,American Seafood Spanish Tapas Barbecue Chinese Hot Dogs International Japanese Traditional
+1089,Mickys Italian Delicatessen and Liquor - Store,4.5,33.85421,-118.39801,Pizza Deli
+1090,Petrillo's Pizza Restaurant,4,34.08023,-118.08928,Pizza Italian Deli Mediterranean Pasta
+1091,Rosita's,5,34.898125,-117.03221,Mexican American
+1092,Shakey's Pizza,4,34.069375,-118.029326,Pizza American Italian
+1093,Shakey's Pizza,3.5,34.062869,-117.682137,Pizza American Italian Sandwiches Subs
+1094,Shakey's Pizza Restaurant,5,34.08505082,-117.967001,Pizza American Italian
+1095,Steven's Place,3,33.883034,-117.515162,American
+1096,Venice Pizza House,4.5,32.755203,-117.12149,Pizza Italian
+1097,Acapulco Grill Restaurants,4,37.013308,-121.577699,Mexican
+1098,Casa Bianca Pizza Pie,4,34.139355,-118.202965,Pizza Italian
+1099,Chick's Donuts and Coffee Shop,4.5,37.973827,-122.03989,Donuts Coffee
+1100,Cypress Subway,2,33.80308,-118.0441582,Deli Fast Food Sandwiches Soup Vegetarian
+1101,D'Elia's Grinder Haven,5,33.975601,-117.356885,Sandwiches American Burgers Deli Fast Food Healthy Italian Subs
+1102,Goofy's Kitchen,4.5,33.80868647,-117.9273105,American
+1103,KFC,3,32.808273,-116.971719,American Fast Food Chicken
+1104,KFC,2,34.096061,-118.326948,Fast Food American Chicken Italian Pizza
+1105,KFC,1,33.92543,-116.89774,Chicken American
+1106,KFC,3,36.569451,-119.610643,American Chicken Fast Food
+1107,KFC,2,37.957366,-122.037655,American Chicken Fast Food
+1108,KFC,1.5,33.677703,-117.919027,American Chicken Fast Food
+1109,KFC,1.5,37.34,-121.971001,Chicken Fast Food American
+1110,KFC,3,38.781763,-121.265233,American Chicken Fast Food
+1111,KFC,3,34.1483,-118.235001,Chicken Fast Food American
+1112,KFC,3,37.762172,-122.243583,American Chicken Fast Food
+1113,KFC,1.5,37.589209,-122.067942,American Chicken Fast Food
+1114,KFC,2.5,34.0561,-117.670291,Chicken American Fast Food
+1115,KFC,2,33.88937,-118.122025,American Burgers Chicken Deli Fast Food Thai
+1116,KFC,4,33.971403,-118.187912,American Fast Food Chicken
+1117,KFC,2,32.615576,-117.026349,American Chicken Fast Food
+1118,KFC,4,33.041997,-116.869409,American Fast Food Chicken
+1119,KFC,1,33.87758,-117.585419,American Fast Food Chicken
+1120,KFC,3,37.32766382,-121.9316983,Fast Food American Chicken Mexican
+1121,KFC,2,34.121448,-117.555764,American Chicken Fast Food
+1122,KFC,2,34.03343,-117.064277,Chicken
+1123,KFC,4,37.69382,-122.464558,Fast Food American Chicken Pizza
+1124,KFC,5,34.471129,-117.342628,American Chicken Fast Food
+1125,KFC,2.5,37.056881,-120.862059,American Fast Food
+1126,KFC,3.5,34.044858,-118.253417,American Chicken Fast Food
+1127,KFC,2,37.299491,-120.480587,American Chicken Fast Food
+1128,KFC,2,38.789044,-121.223849,Fast Food American Chicken
+1129,KFC,2.5,37.68287678,-122.4885477,American Fast Food Chicken
+1130,KFC,2,36.966107,-122.041208,American Fast Food Chicken
+1131,KFC,1,36.781945,-119.754022,American Fast Food Chicken
+1132,KFC,4,37.30962,-121.977549,American Fast Food Chicken
+1133,KFC,5,37.246902,-121.890039,American Chicken Fast Food
+1134,KFC,3,40.405793,-120.631499,American Chicken Fast Food
+1135,KFC,3,36.685936,-121.800477,Chicken American Burgers Fast Food
+1136,KFC,2,33.859797,-117.791025,American Chicken Fast Food
+1137,KFC,2,34.38000478,-118.542105,American Fast Food Chicken
+1138,KFC,2,38.677219,-121.787245,Chicken American
+1139,KFC,3,36.672986,-121.631925,Chicken American Fast Food
+1140,KFC,1,37.706939,-122.41418,American Chicken
+1141,KFC,3,36.602384,-121.849138,Chicken American
+1142,KFC,5,33.997155,-117.967869,American Chicken Fast Food
+1143,KFC,3,34.024349,-118.460873,Fast Food American Chicken
+1144,KFC,3.5,33.960458,-118.419292,Chicken Fast Food American Japanese Pizza Thai
+1145,KFC,3,37.94325715,-121.6956639,Chicken American
+1146,KFC,2,34.09429,-117.6901,Chicken Fast Food American
+1147,KFC,4,33.77535,-118.171754,American Fast Food Chicken
+1148,KFC,2,34.029243,-117.593694,American Chicken Fast Food
+1149,KFC,4.5,34.312427,-118.436744,Chicken American Fast Food
+1150,KFC,5,33.14139622,-117.0424175,American Fast Food Chicken
+1151,KFC,1,35.619929,-117.669914,American Fast Food Chicken Traditional
+1152,KFC,3,36.807978,-119.866273,Fast Food American Chicken
+1153,KFC,3,37.739675,-121.431446,American Fast Food Chicken
+1154,KFC,4,37.3471986,-121.8320202,American Fast Food
+1155,KFC,1,33.65094,-117.841394,Chicken Fast Food American Mexican Hot Dogs Wings
+1156,KFC,5,32.855602,-116.932128,American Fast Food Chicken
+1157,KFC,1,34.16531,-118.281065,Chicken American Fast Food
+1158,KFC,4.5,34.136319,-117.30127,Chicken American Fast Food
+1159,KFC,3,33.820579,-118.320379,American Fast Food Chicken
+1160,KFC,1,37.894944,-122.062676,American Fast Food Chicken
+1161,KFC,2,37.236911,-121.806417,American Fast Food Chicken
+1162,KFC - KFC Taco Bell,3,37.321725,-121.825654,American Fast Food Chicken
+1163,KFC Dine-In or Carry Out,3,33.526309,-117.717322,American Chicken Fast Food
+1164,La Bella Cafe and Games,3.5,32.638577,-117.078835,Pizza Italian American Catering Deli
+1165,M C Restaurant,4,33.904117,-118.14357,Burgers American
+1166,McDonald John E MD,1,39.72328,-121.80152,Fast Food American Burgers Sandwiches
+1167,McDonald Restaurant,3,37.419933,-122.093886,Burgers American Fast Food
+1168,McDonald's,3,37.78639,-121.21621,American Burgers Fast Food
+1169,McDonald's,5,38.649591,-121.06813,American Burgers Fast Food
+1170,McDonald's,1,34.232976,-118.438594,Burgers Fast Food American Mexican Sandwiches
+1171,McDonald's,2.5,37.99409688,-122.1010369,Burgers Fast Food American Californian French Sandwiches
+1172,McDonald's,3,33.71599,-117.8683243,American Burgers Fast Food Sandwiches
+1173,McDonald's,2,32.657101,-117.090604,Burgers American Fast Food
+1174,McDonald's,3,37.307882,-121.84884,Burgers Fast Food American Chicken Sandwiches
+1175,McDonald's,2.5,37.393902,-121.94626,Burgers Fast Food American
+1176,McDonald's,2,37.80149,-122.26554,Burgers American Fast Food
+1177,McDonald's,2.5,37.47194112,-122.139909,Burgers Fast Food American Sandwiches
+1178,McDonald's,2.5,37.752212,-122.41846,Burgers Fast Food American Chicken Sandwiches
+1179,McDonald's,2.5,32.613201,-117.069,Burgers Fast Food American Chicken Sandwiches
+1180,McDonald's,1.5,39.75899,-121.856834,American Fast Food Burgers
+1181,McDonald's,3,33.986866,-118.185986,American Burgers Fast Food
+1182,McDonald's,2,37.519901,-120.880997,American Burgers Fast Food
+1183,McDonald's,4,37.56291,-122.27146,Burgers Fast Food American Chicken Sandwiches
+1184,McDonald's,2.5,37.771408,-122.276115,Burgers American Fast Food
+1185,McDonald's,1,38.095223,-122.229133,Burgers American Fast Food
+1186,McDonald's,2,37.608636,-122.066465,American Burgers Fast Food
+1187,McDonald's,1.5,33.62159706,-117.6606855,American Burgers Fast Food Sandwiches
+1188,McDonald's,1,34.18698027,-118.4146276,American Burgers Fast Food
+1189,McDonald's,4.5,35.367554,-120.84244,Fast Food Burgers American Sandwiches
+1190,McDonald's,3,37.338362,-121.99386,Burgers Fast Food Sandwiches
+1191,McDonald's,1,38.115329,-121.303879,American Burgers Fast Food
+1192,McDonald's,4.5,41.755127,-124.193898,Burgers Fast Food American Sandwiches
+1193,McDonald's,2,34.062571,-117.743098,American Burgers Fast Food
+1194,McDonald's,3,37.723461,-122.455512,Burgers Fast Food American Sandwiches Chicken
+1195,McDonald's,3,35.61491,-120.681128,American Burgers Fast Food Bistro Chicken French Sandwiches
+1196,McDonald's,3.5,32.88042737,-117.1595255,Burgers American Fast Food Sandwiches
+1197,McDonald's,5,36.759306,-119.790088,American Burgers Fast Food
+1198,McDonald's,2,33.616005,-117.91023,Fast Food American Burgers Sandwiches
+1199,McDonald's,3.5,33.117065,-117.097405,American Burgers Fast Food
+1200,McDonald's,2.5,33.94487,-118.21165,Burgers American Fast Food Sandwiches
+1201,McDonald's,1,34.47088,-117.343395,Burgers American Fast Food Sandwiches
+1202,McDonald's,4,38.558897,-121.438334,Burgers American Fast Food Chicken Sandwiches
+1203,McDonald's,2,33.80909,-117.852974,American Fast Food Burgers
+1204,McDonald's,3.5,36.51788,-119.563446,Burgers Fast Food American Sandwiches
+1205,McDonald's,1.5,37.744465,-122.17097,Burgers Fast Food American
+1206,McDonald's,1,34.138161,-117.57525,American Burgers Fast Food
+1207,McDonald's,4,34.401566,-119.72209,American Burgers Fast Food
+1208,McDonald's,4,34.063304,-117.283821,Burgers American Fast Food
+1209,McDonald's,1,34.0462457,-118.2085776,American Burgers Fast Food
+1210,McDonald's,1,36.32797487,-119.3313879,Burgers American Fast Food Sandwiches
+1211,McDonald's,3,38.63149702,-121.2195235,American Burgers Fast Food
+1212,McDonald's,3,38.319999,-122.298652,Burgers Fast Food American Sandwiches
+1213,McDonald's,5,34.112814,-117.762158,American Burgers Fast Food
+1214,McDonald's,3.5,34.215806,-119.005918,American Burgers Fast Food Sandwiches
+1215,McDonald's,4,34.000191,-117.931571,American Fast Food Burgers
+1216,McDonald's,4,37.67187,-121.035622,American Fast Food Burgers
+1217,McDonald's,2.5,33.887376,-118.063405,American Burgers Fast Food Sandwiches
+1218,McDonald's,2,36.297265,-119.154464,Fast Food American Burgers
+1219,McDonald's,2,35.20939942,-118.832927,Fast Food Burgers American Chicken Sandwiches
+1220,McDonald's,2,34.929621,-120.43557,Fast Food American Burgers Sandwiches
+1221,McDonald's,3.5,33.692402,-117.825996,Fast Food American Burgers Chicken Sandwiches
+1222,McDonald's,1,34.12126,-117.19842,American Fast Food Burgers
+1223,McDonald's,4.5,35.621765,-117.66995,Burgers Fast Food American Sandwiches
+1224,McDonald's,3,34.053101,-118.252686,American Burgers Fast Food
+1225,McDonald's,3,34.016806,-118.496831,American Burgers Fast Food
+1226,McDonald's,2.5,39.738686,-121.834724,Fast Food American Burgers Sandwiches
+1227,McDonald's,1.5,37.457203,-121.9112633,Burgers Fast Food American Sandwiches
+1228,McDonald's,1,34.8399,-114.6097,American Burgers Fast Food Chicken Sandwiches
+1229,McDonald's,3,33.831797,-118.003111,Fast Food American Burgers Sandwiches
+1230,McDonald's,3,33.9310112,-116.8197105,Burgers Fast Food American Sandwiches Hot Dogs
+1231,McDonald's,3,38.49648016,-121.4306027,Burgers American Fast Food Sandwiches
+1232,McDonald's,2.5,37.431211,-121.920721,Fast Food American Burgers
+1233,McDonald's,1.5,34.107012,-117.559458,American Burgers Fast Food
+1234,McDonald's,3,34.10702,-117.864668,Burgers Fast Food American Mexican Sandwiches
+1235,McDonald's,3,37.001577,-121.560114,American Burgers Fast Food
+1236,McDonald's,2.5,33.837502,-117.941002,American Burgers Fast Food
+1237,McDonald's,2.5,38.250927,-122.066236,Burgers Fast Food American
+1238,McDonald's,3.5,33.92787,-116.97717,American Burgers Fast Food
+1239,McDonald's,4,33.926014,-118.239029,American Fast Food Burgers
+1240,McDonald's,1,38.130775,-122.22486,Burgers American Fast Food Sandwiches
+1241,McDonald's,1,34.069609,-117.435092,Fast Food Burgers American Sandwiches
+1242,McDonald's,2.5,33.655282,-117.702129,Fast Food American Burgers
+1243,McDonald's,3,33.88958,-118.35236,Burgers American Fast Food Sandwiches
+1244,McDonald's,3,34.028538,-117.650192,American Burgers Fast Food
+1245,McDonald's,4,34.106895,-117.680664,American Burgers Fast Food
+1246,McDonald's,3.5,33.845905,-118.116083,American Fast Food Burgers
+1247,McDonald's,5,33.953472,-118.196976,American Burgers Fast Food
+1248,McDonald's,1,34.47115,-117.24476,Fast Food American Burgers
+1249,McDonald's,3,33.847081,-118.265149,American Burgers Fast Food
+1250,McDonald's,3.5,33.68067544,-117.6653981,Fast Food American Burgers Sandwiches
+1251,McDonald's,1,33.745701,-117.821999,American Burgers Fast Food
+1252,McDonald's,1,33.715929,-118.039692,Fast Food American Burgers Sandwiches
+1253,McDonald's,4,33.817986,-117.9684356,Burgers Fast Food American Sandwiches
+1254,McDonald's,1,38.119135,-122.255642,Burgers American Fast Food Chicken Sandwiches
+1255,McDonald's,2.5,37.768436,-122.223565,Burgers American Fast Food
+1256,McDonald's,1.5,37.59028667,-122.0200717,Burgers American Fast Food Sandwiches
+1257,McDonald's,3.5,38.280556,-122.274475,Burgers Fast Food American Sandwiches
+1258,McDonald's,2,33.522568,-117.68588,American Burgers Fast Food Sandwiches Chicken
+1259,McDonald's,2,34.262617,-119.237111,American Fast Food Burgers
+1260,McDonald's,2.5,37.95455,-122.04158,Burgers Fast Food Sandwiches American Chicken
+1261,McDonald's,2.5,34.106378,-117.649445,American Burgers Fast Food Bakery Diner
+1262,McDonald's,1,37.97467,-122.038086,Burgers Fast Food American Chicken Mediterranean Sandwiches
+1263,McDonald's,2.5,37.791835,-122.403214,Burgers Fast Food American Sandwiches
+1264,McDonald's,4,37.38555,-121.9953,Burgers Fast Food American Sandwiches
+1265,McDonald's,4.5,38.557741,-121.33623,American Burgers Fast Food
+1266,McDonald's,4.5,36.916644,-121.7758582,American Burgers Fast Food
+1267,McDonald's,3.5,32.6283,-117.03639,Burgers Fast Food American Chicken Sandwiches
+1268,McDonald's,3.5,35.375336,-119.00283,American Fast Food Burgers Chicken Sandwiches
+1269,McDonald's,1.5,34.02481,-118.459465,Burgers Fast Food American Sandwiches
+1270,McDonald's,3.5,37.65213454,-122.4910784,Fast Food American Burgers
+1271,McDonald's,3,37.726941,-122.4761331,American Burgers Fast Food Sandwiches
+1272,McDonald's,2,34.423466,-119.70462,Burgers American Fast Food Sandwiches
+1273,McDonald's,2,36.657322,-121.659503,Burgers American Fast Food Sandwiches
+1274,McDonald's,3,33.138405,-117.17483,American Burgers Fast Food
+1275,McDonald's,1,38.394552,-122.818492,Fast Food American Burgers Sandwiches
+1276,McDonald's,3,33.774947,-118.188977,Fast Food American Burgers Sandwiches
+1277,McDonald's,2,38.021055,-121.941953,American Burgers Fast Food
+1278,McDonald's,3,37.7483,-122.19595,Burgers Fast Food American
+1279,McDonald's,3,33.80266687,-118.0706964,Fast Food Burgers American Hot Dogs Mexican Sandwiches
+1280,McDonald's,1.5,33.788799,-117.961998,American Burgers Fast Food
+1281,McDonald's,3,33.943427,-116.501373,Burgers Fast Food American Sandwiches Chicken Italian Southern
+1282,McDonald's,1,33.877338,-117.96286,American Burgers Fast Food
+1283,McDonald's,5,32.73261706,-117.1979427,Burgers American Fast Food
+1284,McDonald's,2.5,34.1442919,-118.6985743,Burgers Fast Food American Mexican Sandwiches
+1285,McDonald's,3,37.763401,-122.195999,Burgers Fast Food American Sandwiches
+1286,McDonald's,3,32.795244,-115.569939,American Burgers Fast Food
+1287,McDonald's,1,34.396481,-119.512334,American Burgers Fast Food Barbecue
+1288,McDonald's,2,38.550611,-121.697384,Burgers Fast Food American Chicken Sandwiches
+1289,McDonald's,1,33.903559,-118.208464,American Burgers Fast Food
+1290,McDonald's,4,34.18258,-118.159703,Fast Food Burgers American Sandwiches Chicken Mexican
+1291,McDonald's,3.5,37.245681,-121.887964,American Burgers Fast Food Sandwiches
+1292,McDonald's,4,38.555089,-121.372203,Burgers Fast Food American Sandwiches Chicken
+1293,McDonald's,2,32.770721,-117.071463,Burgers American Fast Food
+1294,McDonald's,2,34.12818,-117.88747,American Burgers Fast Food Sandwiches
+1295,McDonald's,2,34.03604,-118.04012,Fast Food American Burgers Sushi
+1296,McDonald's,3,34.00843,-118.220429,American Fast Food Burgers
+1297,McDonald's,3,37.673401,-120.99409,Burgers American Fast Food Sandwiches
+1298,McDonald's,2,34.25682835,-118.5895573,Fast Food American Burgers Chicken Sandwiches
+1299,McDonald's,2,33.659178,-117.87153,American Burgers Fast Food
+1300,McDonald's,2,36.808399,-119.7186395,Burgers Fast Food American Sandwiches
+1301,McDonald's,3,37.494214,-122.235541,Burgers Fast Food American Sandwiches
+1302,McDonald's,1.5,33.916293,-118.39605,Burgers American Fast Food
+1303,McDonald's,3.5,38.344427,-122.711595,Fast Food American Burgers Sandwiches
+1304,McDonald's,3,33.203582,-117.364021,American Burgers Fast Food
+1305,McDonald's,2.5,33.045624,-117.2612448,Burgers Fast Food American Chicken Sandwiches
+1306,McDonald's,2.5,33.83260667,-118.10018,Fast Food American Burgers Sandwiches
+1307,McDonald's,4,32.555302,-116.938098,Burgers Fast Food American Sandwiches
+1308,McDonald's,3,37.365402,-118.39533,American Burgers Fast Food
+1309,McDonald's,2,33.730301,-117.797997,American Burgers Fast Food
+1310,McDonald's,1.5,37.764659,-122.419623,Burgers American Fast Food Chicken Sandwiches
+1311,McDonald's,3,33.902656,-118.098352,American Fast Food Burgers
+1312,McDonald's,1.5,34.106074,-117.59479,American Burgers Fast Food
+1313,McDonald's,3,33.5710865,-117.1839958,Fast Food Burgers American Chicken Sandwiches
+1314,McDonald's,3,34.21721413,-119.1776329,American Burgers Fast Food Sandwiches
+1315,McDonald's,2.5,34.171282,-119.1770643,American Burgers Fast Food
+1316,McDonald's,5,35.375999,-118.95009,American Fast Food Burgers
+1317,McDonald's,3,33.942792,-118.401146,Burgers Fast Food American Chicken Sandwiches
+1318,McDonald's,3.5,32.603398,-117.079286,Fast Food American Burgers Chicken Sandwiches
+1319,McDonald's,2.5,33.036465,-116.877207,Fast Food American Burgers
+1320,McDonald's,3,38.056197,-122.150678,Burgers Fast Food American Sandwiches
+1321,McDonald's,3,37.898415,-122.063123,American Burgers Fast Food
+1322,McDonald's,3,33.77173,-118.179756,Fast Food American Burgers Sandwiches
+1323,McDonald's,2,34.17043,-118.28889,Burgers Fast Food American Sandwiches
+1324,McDonald's,2,33.717441,-117.9886366,Burgers Fast Food American Sandwiches
+1325,McDonald's,2.5,33.86521,-117.54342,Burgers American Fast Food Sandwiches
+1326,McDonald's,2,37.331894,-119.654429,American Burgers Fast Food Chicken Sandwiches
+1327,McDonald's,3,38.73108,-120.7880317,Burgers American Fast Food
+1328,McDonald's,1,34.506725,-117.34622,Burgers American Fast Food Sandwiches
+1329,McDonald's,2.5,33.81849,-117.909183,Fast Food American Burgers
+1330,McDonald's,1.5,33.83184344,-118.0752799,Burgers Fast Food American Sandwiches
+1331,McDonald's,4.5,32.77617,-115.552321,Burgers American Fast Food Sandwiches
+1332,McDonald's,1.5,33.7926314,-116.9715434,American Burgers Fast Food
+1333,McDonald's,2,33.88877749,-117.5203984,American Fast Food Burgers
+1334,McDonald's,5,35.391864,-118.961265,American Burgers Fast Food Chicken Sandwiches
+1335,McDonald's,1,33.80773187,-118.273836,American Fast Food Burgers
+1336,McDonald's,1.5,37.400534,-122.108927,American Burgers Fast Food Sandwiches
+1337,McDonald's,1.5,34.101542,-118.3382,Fast Food Burgers American Chicken Sandwiches
+1338,McDonald's,1,38.114956,-121.302453,American Burgers Fast Food
+1339,McDonald's,1.5,34.065717,-118.023732,Fast Food American Burgers Sandwiches
+1340,McDonald's,2.5,34.019371,-118.4069899,American Burgers Fast Food
+1341,McDonald's,4.5,38.923107,-121.056004,Burgers Fast Food American Sandwiches
+1342,McDonald's,2.5,32.892937,-117.20321,American Burgers Fast Food
+1343,McDonald's,4.5,32.614399,-117.024002,Fast Food American Burgers
+1344,McDonald's,1,35.383598,-119.094896,Fast Food American Burgers
+1345,McDonald's,1,33.87433448,-117.997866,Burgers Fast Food Sandwiches
+1346,McDonald's,3,37.479345,-122.224329,Burgers Fast Food American Sandwiches
+1347,McDonald's,2,34.08815,-117.749675,American Burgers Fast Food
+1348,McDonald's,2.5,38.00508,-121.752173,Fast Food Burgers American Chicken Sandwiches
+1349,McDonald's,2,33.503628,-117.154274,Fast Food American Burgers
+1350,McDonald's,3,37.753891,-121.472326,Fast Food American Burgers Sandwiches
+1351,McDonald's,2,33.596604,-117.24305,American Burgers Fast Food
+1352,McDonald's,3,38.245186,-122.02034,Burgers American Fast Food Sandwiches
+1353,McDonald's,2.5,33.07152,-117.07133,Fast Food American Burgers
+1354,McDonald's,5,33.958157,-118.231475,American Burgers Fast Food
+1355,McDonald's,2.5,34.080374,-117.7192,American Fast Food Burgers
+1356,McDonald's,3.5,33.947399,-118.116997,American Burgers Fast Food
+1357,McDonald's,1,33.465142,-117.689835,American Burgers Fast Food Sandwiches
+1358,McDonald's,2.5,32.82062784,-117.1778677,American Burgers Fast Food
+1359,McDonald's,2,32.747669,-116.9614266,American Burgers Fast Food
+1360,McDonald's,2.5,33.975062,-118.231145,Burgers American Fast Food Sandwiches
+1361,McDonald's,2,37.460186,-122.137635,Burgers American Fast Food
+1362,McDonald's,2,37.95357943,-122.059863,Burgers American Fast Food
+1363,McDonald's,3,34.027699,-117.592576,Burgers American Fast Food Sandwiches
+1364,McDonald's,1,36.715942,-121.632533,American Burgers Fast Food
+1365,McDonald's,1.5,34.136735,-116.053862,Fast Food American Burgers Chicken Sandwiches
+1366,McDonald's,2.5,34.282516,-118.678986,Burgers Fast Food American Sandwiches
+1367,McDonald's,3,37.798915,-121.922891,Burgers Fast Food American Chicken Sandwiches
+1368,McDonald's,2,33.788294,-117.872514,American Fast Food Burgers
+1369,McDonald's,1,34.28107,-118.793236,American Burgers Fast Food
+1370,McDonald's,1,37.771004,-120.83541,American Burgers Fast Food Sandwiches
+1371,McDonald's,4,34.18749723,-118.6431894,Fast Food American Burgers
+1372,McDonald's,3.5,35.055559,-118.174699,Fast Food American Burgers Sandwiches
+1373,McDonald's,2.5,37.323263,-121.9689955,Burgers Fast Food American Sandwiches
+1374,McDonald's,4,34.042053,-117.48676,American Burgers Fast Food
+1375,McDonald's,4.5,33.873063,-118.393688,Burgers Fast Food American Chicken Sandwiches
+1376,McDonald's,2.5,34.119029,-118.192705,American Fast Food Burgers
+1377,McDonald's,1,33.87258232,-118.29849,American Burgers Fast Food
+1378,McDonald's,3.5,34.033996,-118.472964,American Burgers Fast Food
+1379,McDonald's,1,37.96206,-121.986747,Burgers American Fast Food
+1380,McDonald's,3,34.277791,-119.213678,Burgers American Fast Food
+1381,McDonald's,1,33.887179,-118.3788877,Burgers American Fast Food Sandwiches
+1382,McDonald's,2.5,33.97598147,-117.47697,Fast Food American Burgers Chicken Sandwiches
+1383,McDonald's,5,33.7211,-116.3954526,Fast Food American
+1384,McDonald's,3,33.670655,-117.78929,Fast Food American Burgers Chicken Sandwiches
+1385,McDonald's,2.5,37.793875,-122.399252,Fast Food American Burgers
+1386,McDonald's,2,34.95629082,-120.4349695,Fast Food American Burgers Sandwiches
+1387,McDonald's,1,34.12105632,-117.370767,American Burgers Fast Food
+1388,McDonald's,3.5,34.058631,-118.212194,Fast Food American Burgers
+1389,McDonald's,4,33.897828,-117.562011,American Burgers Fast Food
+1390,McDonald's,4,34.267082,-119.272514,American Burgers Fast Food
+1391,McDonald's,2,37.46855,-122.43356,American Burgers Fast Food Sandwiches
+1392,McDonald's,2.5,37.29808509,-121.9504201,American Burgers Fast Food
+1393,McDonald's,2,37.966048,-121.274658,American Burgers Fast Food
+1394,McDonald's,3,34.087722,-118.175796,Burgers Fast Food American Sandwiches
+1395,McDonald's,2,34.126504,-116.405855,American Burgers Fast Food
+1396,McDonald's,3.5,38.106771,-122.569911,American Burgers Fast Food
+1397,McDonald's,1.5,33.683921,-117.8859937,American Burgers Fast Food
+1398,McDonald's,2.5,32.727793,-117.226916,Burgers Fast Food American Chicken Sandwiches
+1399,McDonald's,2.5,33.9691675,-118.098402,American Burgers Fast Food
+1400,McDonald's,3,34.855132,-117.0858044,Burgers Fast Food American Sandwiches
+1401,McDonald's,3.5,32.785707,-117.1701685,Burgers American Fast Food Sandwiches
+1402,McDonald's,1,34.106478,-117.45493,Fast Food American Burgers
+1403,McDonald's,1,37.97474374,-122.066736,Burgers American Fast Food
+1404,McDonald's,4,37.710757,-121.724241,American Burgers Fast Food
+1405,McDonald's,3.5,37.7079567,-122.1327801,Fast Food American Burgers Sandwiches
+1406,McDonald's,2.5,36.599983,-121.88824,Fast Food Burgers American Sandwiches Chicken
+1407,McDonald's,4,37.348919,-121.8651527,Fast Food Burgers American Sandwiches
+1408,McDonald's,3,33.918717,-118.071969,American Burgers Fast Food Sandwiches
+1409,McDonald's,3,37.387152,-121.860641,Fast Food American Burgers Chicken Sandwiches
+1410,McDonald's,3,37.780998,-122.2342783,Burgers Fast Food American Sandwiches
+1411,McDonald's,3.5,37.67122,-122.12144,American Burgers Fast Food Sandwiches
+1412,McDonald's,3,33.81054,-118.29109,Fast Food American Burgers Chicken Sandwiches
+1413,McDonald's,1,36.627283,-119.683412,American Burgers Fast Food
+1414,McDonald's,3,33.938298,-117.55471,Burgers American Fast Food
+1415,McDonald's,1,33.765905,-117.990142,American Burgers Fast Food Sandwiches
+1416,McDonald's,3,34.163445,-118.82744,Burgers American Fast Food
+1417,McDonald's,1,36.619008,-121.843904,American Burgers Fast Food Chicken International Sandwiches
+1418,McDonald's,1,37.34984,-121.826935,Burgers Fast Food American Chicken Sandwiches
+1419,McDonald's,1.5,35.776152,-119.24651,Burgers American Fast Food
+1420,McDonald's,3,39.52259784,-122.2117424,Fast Food Burgers American Chicken Sandwiches
+1421,McDonald's,3,33.988872,-118.226187,American Burgers Fast Food
+1422,McDonald's,4,37.631423,-122.096623,Burgers American Fast Food
+1423,McDonald's,4,33.97333,-118.216624,American Burgers Fast Food
+1424,McDonald's,1.5,34.069709,-117.139385,American Burgers Fast Food
+1425,McDonald's,4,34.0104309,-118.336668,Fast Food Burgers
+1426,McDonald's,2.5,33.627698,-117.716132,Burgers American Fast Food
+1427,McDonald's,1,33.865201,-118.094742,American Burgers Fast Food Sandwiches
+1428,McDonald's,2,37.693396,-122.110781,American Fast Food Burgers
+1429,McDonald's,3,37.266395,-121.83211,American Burgers Fast Food Sandwiches
+1430,McDonald's,2.5,37.5943625,-122.5018497,American Burgers Fast Food
+1431,McDonald's,3,37.78900557,-122.4014604,Burgers Fast Food American Sandwiches Chicken
+1432,McDonald's,2.5,34.105912,-117.679106,American Burgers Fast Food
+1433,McDonald's,4,32.58423,-117.039609,Burgers Fast Food American Sandwiches
+1434,McDonald's,1,38.580702,-121.5311372,Burgers American Fast Food Sandwiches
+1435,McDonald's,2.5,34.395901,-118.922739,American Burgers Fast Food
+1436,McDonald's,3,38.5880452,-121.2881414,American Burgers Fast Food Bakery Diner
+1437,McDonald's,2,37.966903,-121.783512,Fast Food American Burgers
+1438,McDonald's,2,37.653092,-120.95739,American Burgers Fast Food
+1439,McDonald's,2,34.10268,-117.2985095,Burgers American Fast Food
+1440,McDonald's,4,32.689683,-117.044584,Burgers Fast Food Sandwiches American Chicken
+1441,McDonald's,2.5,36.837364,-119.697368,Burgers Fast Food American Sandwiches
+1442,McDonald's,1,35.601915,-119.3496356,American Burgers Fast Food
+1443,McDonald's,2.5,37.96682,-122.343842,Burgers American Fast Food
+1444,McDonald's,5,38.57897005,-121.5482926,American Burgers Fast Food
+1445,McDonald's,2.5,32.718426,-117.153847,Fast Food
+1446,McDonald's,3,33.849426,-117.88925,American Fast Food Burgers
+1447,McDonald's,2.5,34.188099,-118.941002,Fast Food American Burgers Sandwiches
+1448,McDonald's,1,38.670974,-121.166455,American Burgers Fast Food Chicken Sandwiches
+1449,McDonald's,2.5,33.130148,-117.067775,Burgers Fast Food American Sandwiches
+1450,McDonald's,3,35.261499,-118.914991,Fast Food American Burgers Chicken Sandwiches
+1451,McDonald's,4.5,33.84641,-117.53915,American Burgers Fast Food
+1452,McDonald's,2.5,33.96507,-117.69767,American Burgers Fast Food
+1453,McDonald's,3.5,40.680565,-122.350319,American Burgers Fast Food
+1454,McDonald's,3,33.563282,-117.71555,Burgers Fast Food American Sandwiches
+1455,McDonald's,3.5,33.806027,-118.354153,Fast Food American Burgers
+1456,McDonald's,3,33.7826,-118.153435,American Fast Food Burgers
+1457,McDonald's,2.5,34.084393,-117.96832,Burgers Fast Food American Sandwiches
+1458,McDonald's,2,34.032424,-118.266956,Fast Food American Burgers Sandwiches
+1459,McDonald's,4,37.88228,-122.29638,American Burgers Fast Food Sandwiches
+1460,McDonald's,4,38.269062,-122.0337617,American Burgers Fast Food
+1461,McDonald's,1,36.736503,-119.749524,American Burgers Fast Food
+1462,McDonald's,2.5,34.249938,-118.502821,American Burgers Fast Food
+1463,McDonald's,2,33.730489,-118.01431,American Burgers Fast Food
+1464,McDonald's,3.5,37.69966,-121.742594,Burgers Fast Food American Sandwiches
+1465,McDonald's,2.5,33.908382,-117.436654,Fast Food American Burgers Sandwiches
+1466,McDonald's,1.5,37.330272,-121.859514,Fast Food American Burgers
+1467,McDonald's,3.5,38.42392817,-121.41473,Burgers American Fast Food Sandwiches
+1468,McDonald's,3,38.105616,-122.209895,American Burgers Fast Food
+1469,McDonald's,4,35.380241,-119.023524,Burgers American Fast Food Sandwiches
+1470,McDonald's,3.5,38.634563,-121.328732,Burgers American Fast Food Sandwiches
+1471,McDonald's,1,33.989132,-118.31236,American Burgers Fast Food
+1472,McDonald's,4.5,37.243789,-121.959952,Burgers Fast Food American Sandwiches Chicken
+1473,McDonald's,1.5,33.615853,-117.7078837,Burgers American Fast Food Chicken Sandwiches
+1474,McDonald's,4,36.736425,-119.697536,American Burgers Fast Food
+1475,McDonald's,2,38.473851,-121.428458,American Burgers Fast Food
+1476,McDonald's,1,34.278052,-118.709409,Burgers American Fast Food Sandwiches
+1477,McDonald's,2,37.966953,-121.295441,American Burgers Fast Food Sandwiches
+1478,McDonald's,5,35.484867,-120.665245,American Burgers Fast Food Chicken Sandwiches
+1479,McDonald's,2.5,37.23609388,-121.8033838,American Burgers Fast Food
+1480,McDonald's,1,37.678818,-120.959245,American Burgers Fast Food Sandwiches
+1481,McDonald's,1.5,33.930875,-118.114481,American Burgers Fast Food
+1482,McDonald's,3.5,32.832244,-117.16509,Burgers Fast Food American
+1483,McDonald's,2,34.15105,-118.0267028,American Fast Food Burgers
+1484,McDonald's,2,33.61307,-117.92919,Fast Food American Burgers Sandwiches
+1485,McDonald's,1,32.82659,-116.901694,American Burgers Fast Food Sandwiches
+1486,McDonald's,1.5,37.803799,-122.2821558,Burgers Fast Food American Sandwiches
+1487,McDonald's,4,34.18081415,-118.6034203,Burgers American Fast Food
+1488,McDonald's,4,37.514971,-120.84836,American Fast Food Burgers
+1489,McDonald's,5,35.408289,-119.021433,American Burgers Fast Food
+1490,McDonald's,5,38.009679,-121.870025,Burgers American Fast Food Bakery Diner Sandwiches
+1491,McDonald's,3,34.07812187,-117.6316639,Fast Food American Burgers
+1492,McDonald's,2.5,38.007923,-121.887437,American Burgers Fast Food Bakery Diner
+1493,McDonald's,2,33.596624,-117.6762342,American Burgers Fast Food
+1494,McDonald's,3,34.1833481,-118.6044073,Burgers Fast Food American Sandwiches
+1495,McDonald's,4,37.391435,-122.09583,American Burgers Fast Food
+1496,McDonald's,2.5,40.45597,-122.29384,Burgers Fast Food American Sandwiches
+1497,McDonald's,1,33.608574,-114.60551,Burgers Fast Food American Sandwiches Chicken
+1498,McDonald's,3,33.80400227,-118.1897169,American Fast Food Burgers
+1499,McDonald's,2,34.167497,-118.3234642,American Burgers Fast Food
+1500,McDonald's,1,38.611848,-121.38364,American Burgers Fast Food
+1501,McDonald's,4,38.85366,-120.01746,American Burgers Fast Food
+1502,McDonald's,3,37.639302,-121.000108,Burgers American Fast Food Sandwiches
+1503,McDonald's,3.5,32.720468,-117.084949,American Burgers Fast Food
+1504,McDonald's,5,35.3399519,-119.053615,American Fast Food Burgers
+1505,McDonald's,3,36.735203,-120.0615,Burgers American Fast Food Chicken Sandwiches
+1506,McDonald's,3.5,37.700484,-121.871175,American Burgers Fast Food
+1507,McDonald's,1,38.660043,-121.347013,American Burgers Fast Food
+1508,McDonald's,3,37.44312587,-122.171123,Burgers Fast Food American Sandwiches
+1509,McDonald's,3,36.932115,-121.769488,Burgers Fast Food American Chicken Sandwiches
+1510,McDonald's,3,38.252899,-121.294753,Burgers Fast Food American Sandwiches
+1511,McDonald's,2,33.651532,-117.646966,Burgers Fast Food American Sandwiches
+1512,McDonald's,1.5,36.6801444,-121.6056818,American Burgers Fast Food
+1513,McDonald's,3,34.159302,-118.133003,Burgers Fast Food American
+1514,McDonald's,2,32.647099,-116.968002,American Burgers Fast Food Chicken Sandwiches
+1515,McDonald's,2.5,34.49281617,-118.197473,Fast Food Burgers American Chicken Mexican Sandwiches
+1516,McDonald's,2,32.95987,-117.0381689,American Fast Food Burgers
+1517,McDonald's,5,33.80181,-116.38826,American Burgers Fast Food
+1518,McDonald's,3,33.802491,-117.225535,Burgers Fast Food American Sandwiches
+1519,McDonald's,2.5,37.949026,-121.290134,American Fast Food Burgers
+1520,McDonald's,2,33.974974,-118.283185,American Burgers Fast Food
+1521,McDonald's,3.5,38.45754169,-121.8416405,Burgers Fast Food American Sandwiches
+1522,McDonald's,3,33.85614038,-117.919383,Fast Food American Burgers
+1523,McDonald's,2.5,34.16508445,-117.2812725,Burgers Fast Food American Chicken Sandwiches
+1524,McDonald's,4,34.06742,-117.326339,Burgers American Fast Food Sandwiches
+1525,McDonald's,3,34.107502,-118.056085,American Burgers Fast Food Mexican
+1526,McDonald's,2.5,33.946231,-117.421497,American Burgers Fast Food Bakery Diner
+1527,McDonald's,3,37.317649,-120.499788,Burgers American Fast Food Sandwiches
+1528,McDonald's,1,34.558323,-118.045235,American Fast Food Bakery Burgers Diner
+1529,McDonald's,2.5,37.311,-121.931121,American Burgers Fast Food
+1530,McDonald's,1,33.925476,-116.89997,American Burgers Fast Food
+1531,McDonald's,1,33.917394,-118.10218,American Fast Food Burgers
+1532,McDonald's,3.5,33.968142,-118.163707,Burgers Fast Food American Sandwiches
+1533,McDonald's,4.5,32.692806,-117.133842,Burgers Fast Food American Chicken Sandwiches
+1534,McDonald's,2,33.666734,-117.988381,Burgers Fast Food American Chicken Sandwiches
+1535,McDonald's,4,37.71657,-122.177361,American Fast Food Burgers
+1536,McDonald's,3.5,38.59657,-121.41534,American Burgers Fast Food
+1537,McDonald's,1,34.09306927,-118.026981,Fast Food American Burgers Sandwiches
+1538,McDonald's,3,35.36700562,-119.0422297,American Fast Food Burgers
+1539,McDonald's,2,33.935287,-117.40415,American Burgers Fast Food Bakery Diner
+1540,McDonald's,2,38.68343697,-121.4563304,American Fast Food Burgers Sandwiches
+1541,McDonald's,3,33.12898,-117.090995,American Burgers Fast Food
+1542,McDonald's,3,32.837838,-116.984187,Burgers Fast Food American Chicken Sandwiches
+1543,McDonald's,5,34.42239883,-118.5418099,Burgers American Chicken Fast Food Sandwiches
+1544,McDonald's,2,36.418198,-121.32199,Burgers Fast Food American Chicken Sandwiches
+1545,McDonald's,3.5,33.562324,-117.629022,Fast Food American Burgers
+1546,McDonald's,2.5,34.142694,-118.236665,American Burgers Fast Food
+1547,McDonald's,4.5,34.0864653,-117.8729583,American Fast Food Mexican
+1548,McDonald's,1,34.272168,-118.770372,American Burgers Fast Food
+1549,McDonald's,2,37.64342,-122.453,American Burgers Fast Food Sandwiches
+1550,McDonald's,1,36.328044,-119.649778,American Burgers Fast Food
+1551,McDonald's,3,37.52527,-122.28179,Burgers Fast Food American Sandwiches
+1552,McDonald's,2,37.533016,-122.327386,American Burgers Fast Food
+1553,McDonald's,4.5,34.244856,-118.274174,American Burgers Fast Food
+1554,McDonald's,2,34.675682,-118.11249,American Fast Food Burgers
+1555,McDonald's,3,35.615167,-120.686868,American Burgers Bistro Fast Food French
+1556,McDonald's,3,36.685406,-121.79477,Burgers Fast Food American Sandwiches
+1557,McDonald's,1.5,33.939489,-117.9376235,Burgers American Fast Food
+1558,McDonald's,4,36.341791,-119.350889,Burgers American Fast Food
+1559,McDonald's,4,38.654977,-121.383415,American Burgers Fast Food
+1560,McDonald's,2.5,32.744434,-116.930763,Fast Food Burgers American Sandwiches
+1561,McDonald's,2.5,32.754299,-117.218002,Burgers American Fast Food
+1562,McDonald's,2.5,33.643103,-117.924836,Burgers American Fast Food
+1563,McDonald's,2.5,34.121548,-117.61553,American Burgers Fast Food
+1564,McDonald's,3.5,37.29001033,-121.8807237,Burgers Fast Food American Chicken Sandwiches
+1565,McDonald's,1.5,33.943721,-118.408245,Fast Food American Burgers
+1566,McDonald's,2,36.136409,-120.363458,American Burgers Fast Food
+1567,McDonald's,3,34.200536,-118.867848,American Burgers Fast Food
+1568,McDonald's,3,34.12910664,-117.8298712,Fast Food American Burgers Sandwiches
+1569,McDonald's,1.5,34.005101,-118.473854,Burgers American Fast Food Sandwiches
+1570,McDonald's,1.5,38.25894,-122.067389,Burgers American Fast Food Chicken Sandwiches
+1571,McDonald's,3,37.78897165,-122.4016106,Burgers Fast Food American Sandwiches
+1572,McDonald's,2,37.765758,-122.407546,Burgers Fast Food American Chicken Sandwiches
+1573,McDonald's,3.5,37.73947,-121.135559,American Burgers Fast Food
+1574,McDonald's,3.5,38.68682669,-121.3415426,Burgers American Fast Food
+1575,McDonald's,2.5,32.583481,-117.109722,Fast Food American Burgers
+1576,McDonald's,3,34.42189,-119.67926,Burgers American Fast Food Sandwiches
+1577,McDonald's,1,34.04396545,-117.9885399,Burgers Fast Food American Sandwiches
+1578,McDonald's,3,37.300051,-120.494177,American Burgers Fast Food
+1579,McDonald's,3,34.031408,-118.244012,American Fast Food Burgers
+1580,McDonald's,2.5,35.13730005,-120.6289172,Fast Food American Burgers
+1581,McDonald's,4,38.15381,-122.25378,American Fast Food Burgers
+1582,McDonald's,3,34.108292,-117.934577,American Burgers Fast Food
+1583,McDonald's,5,32.66061,-117.034195,Fast Food American Burgers Sandwiches
+1584,McDonald's,3.5,37.539706,-121.923124,Burgers American Fast Food Chicken Sandwiches
+1585,McDonald's,1,33.891792,-117.20531,American Burgers Fast Food
+1586,McDonald's,5,33.9618,-118.3500428,American Burgers Fast Food
+1587,McDonald's,2.5,34.185085,-118.387285,American Fast Food Burgers
+1588,McDonald's,2.5,34.183102,-118.311996,American Burgers Fast Food
+1589,McDonald's,2,38.42581987,-121.4812857,American Fast Food Burgers
+1590,McDonald's,2.5,33.947372,-118.14786,Fast Food American Burgers
+1591,McDonald's,3,34.270352,-118.467716,American Fast Food Burgers Sandwiches
+1592,McDonald's,3,33.810001,-117.91526,Burgers American Fast Food
+1593,McDonald's,4,37.382298,-121.9788864,Burgers Fast Food American Sandwiches
+1594,McDonald's,1,36.213041,-119.348687,Burgers American Fast Food Sandwiches
+1595,McDonald's,2.5,37.66696,-122.080772,American Barbecue
+1596,McDonald's,2,37.694815,-121.931643,American Burgers Fast Food
+1597,Caesar's Italian Restaurant,3.5,37.805755,-122.411966,Italian Seafood American Mediterranean Steak
+1598,Caffe Trieste,4.5,37.79874228,-122.40727,Coffee Continental Diner Italian
+1599,Chicken Pie Shop,3.5,36.757675,-119.800432,American Chicken Diner
+1600,Di Cicco's Cocktail Lounge,3.5,36.74416,-119.79053,Italian Pizza
+1601,Di Cicco's Italian Restaurant,4.5,36.808487,-119.77047,Italian Pizza
+1602,Di Cicco's Italian Restaurant,2.5,36.80798512,-119.831331,Italian Pizza
+1603,Domenick's Pizza House,4,33.80572,-118.2641,Italian Pizza Fast Food Pacific Rim Steak Vietnamese
+1604,Domenick's Pizza House,4.5,33.7621112,-118.3117879,Pizza Sandwiches Subs
+1605,Frankie Johnnie and Luigi Too,3,37.70143,-121.9381,Pizza Italian
+1606,Frankie Johnnie and Luigi Too,3.5,37.29199,-121.99391,Italian Pizza Fast Food Pan Asian Vegetarian
+1607,Guadalajara Market and Products,4,37.352256,-121.856941,Catering Mexican
+1608,Jersey Mike's Subs,3,38.749728,-121.248735,Sandwiches American Salad Subs
+1609,Jersey Mike's Subs,3.5,34.183365,-118.912506,Sandwiches American
+1610,Jersey Mike's Subs,3.5,34.22261,-119.177332,Sandwiches American Salad Subs
+1611,La Scala Restaurant,3.5,34.071602,-118.402,Italian European
+1612,Roll 'N Rye,3.5,33.997958,-118.395452,Deli American Sandwiches Japanese
+1613,Silver Dragon Restaurant,3.5,37.799488,-122.2712,Chinese Asian Fast Food Korean Pan Asian
+1614,Tary Boscolo's Pizzeria and Italian Restaurant,4.5,37.342236,-120.59943,Italian Pizza Fast Food Sandwiches Subs
+1615,The Munchbox,5,34.25724,-118.600047,Burgers Chicken Mediterranean Middle Eastern Thai
+1616,Vesuvio Italian Food,3.5,37.35237,-121.98135,Pizza Italian American Catering Fast Food
+1617,Antonio's Pizzeria,4.5,34.14787,-118.43032,Pizza Italian American Deli Diner Pasta
+1618,Art's Delicatessen and Restaurant,4,34.143319,-118.398964,Deli Diner Cafe Coffee Hot Dogs Italian Sandwiches Thai
+1619,Barneys Hickory Pit,4,37.97123,-122.013855,Barbecue American Fast Food
+1620,Baskin-Robbins,5,34.165059,-118.3061,Ice Cream American Bakery
+1621,China Gate Restaurant,4.5,33.179798,-117.327003,Chinese
+1622,Clancy's,4,33.7403816,-118.1057763,Irish
+1623,El Aguila Bakery and Deli,4,36.678395,-121.657254,Deli Bakery Sandwiches
+1624,El Castillo Cafe Mexican Restaurant,4.5,37.73465,-121.42573,Mexican
+1625,Frank's Steak House,3.5,34.173374,-118.31669,Steak Barbecue Diner Latin American Seafood Steakhouse
+1626,Knowlwood Home of The Worlds Best Hamburger,3.5,33.76015529,-117.8366529,American Burgers Diner Hot Dogs
+1627,Marechiaro's,5,32.806465,-116.93579,Pizza
+1628,Marris Pizza and Italian Restaurant,4,33.79543,-118.10685,Italian Pizza Subs
+1629,New China Cafe,4.5,37.30421,-120.490929,Chinese Fast Food
+1630,Shakeys Pizza Restaurant,4,33.999408,-118.07958,Italian Pizza American
+1631,Aldo's Pizza Pasta and Sandwiches,5,37.57111,-122.30914,Pizza Fast Food Italian
+1632,Cantina Real,4,33.862111,-118.401292,Mexican American Burgers Sandwiches
+1633,Chi Chi's Pizza,4.5,34.27174,-118.692154,Pizza Italian Sandwiches Subs
+1634,Chi Chis Pizza,5,34.42257,-118.54,Pizza Italian
+1635,Dal Rae,4,33.982666,-118.096146,American Steak Seafood Barbecue Continental Eclectic Latin American Traditional
+1636,El Taco Mexicano,5,34.003785,-118.251847,Mexican
+1637,Estrellita,4,37.39985,-122.11431,Mexican American Southern Southwestern
+1638,Fosselman's Ice Cream,5,34.091341,-118.143919,Ice Cream
+1639,Frumentos Italian Market,4.5,34.016102,-118.0998,Deli Italian Sandwiches Catering
+1640,Gan Chy Restaurant,4.5,37.951923,-121.285484,American Chinese
+1641,IHOP,4.5,34.257365,-119.211217,American Burgers Salad Sandwiches Soup Steak Wraps
+1642,IHOP,2.5,38.424873,-121.391583,American Burgers Coffee Salad Sandwiches Soup Steak Wraps
+1643,IHOP,1,33.683556,-117.919466,American Steak Burgers Contemporary Diner International Salad Sandwiches Soup Wraps
+1644,IHOP,3,33.961808,-118.349741,American Coffee Sandwiches Steak Burgers Contemporary Diner International Salad Soup Wraps
+1645,IHOP,2,34.396503,-119.51214,American Sandwiches Burgers Coffee Salad Soup Steak Wraps
+1646,IHOP,3,32.751999,-117.011002,American Sandwiches Burgers Coffee Salad Soup Steak Wraps
+1647,IHOP,4,37.705719,-121.908197,American Burgers Diner Salad Sandwiches Soup Steak Wraps
+1648,IHOP,2,33.912125,-117.462034,American Sandwiches Burgers Coffee Salad Soup Steak Wraps
+1649,IHOP,3,33.91579,-118.072685,American Steak Burgers Contemporary Diner International Pizza Salad Sandwiches Soup Wraps
+1650,IHOP,3.5,38.54023647,-121.7303724,American Sandwiches Steak Burgers Coffee Contemporary Salad Soup Wraps
+1651,IHOP,3,33.809898,-117.9149187,American Traditional Burgers Salad Sandwiches Soup Steak Wraps
+1652,IHOP,2,35.263829,-120.676859,American Burgers Salad Sandwiches Soup Steak Wraps
+1653,IHOP,3.5,34.12307,-117.59398,Coffee American Diner Sandwiches Burgers Salad Soup Steak Wraps
+1654,IHOP,3,37.799186,-122.439251,American Burgers Coffee Diner Fast Food Hot Dogs International Sandwiches Traditional
+1655,IHOP,1.5,37.83247397,-122.2805947,American Diner Steak Burgers Contemporary International Salad Sandwiches Soup Wraps
+1656,IHOP,3,34.154998,-118.242872,American Diner Sandwiches Burgers Coffee Salad Soup Steak Wraps
+1657,IHOP,3,34.395699,-118.918427,American Sandwiches Burgers Coffee Diner Salad Soup Steak Wraps
+1658,IHOP,3.5,32.545558,-117.041188,American Sandwiches Burgers Coffee Salad Soup Steak Wraps
+1659,IHOP,4,34.069586,-117.555045,American Burgers Sandwiches Steak Coffee Contemporary Salad Soup Wraps
+1660,IHOP,3.5,36.839951,-119.782086,American Steak Burgers Contemporary Salad Sandwiches Soup Wraps
+1661,IHOP,3,36.741098,-119.779437,American Burgers Salad Sandwiches Soup Steak Wraps
+1662,IHOP,3,32.749591,-117.071069,American Steak Burgers Contemporary International Salad Sandwiches Soup Wraps
+1663,IHOP,2,37.625344,-122.414031,American Sandwiches Steak Burgers International Salad Soup Wraps
+1664,IHOP,3.5,34.186798,-118.31718,American Coffee Diner Sandwiches Burgers Salad Soup Steak Traditional Wraps
+1665,IHOP,2,33.916145,-117.325876,American Sandwiches Burgers Coffee Salad Soup Steak Wraps
+1666,IHOP,1.5,34.097972,-118.341929,American Steak Burgers Coffee Contemporary Diner International Salad Sandwiches Soup Traditional Wraps
+1667,IHOP,2,33.19232,-117.35878,American Burgers Salad Sandwiches Soup Steak Wraps
+1668,IHOP,1,35.35485,-119.330956,American Steak Burgers Contemporary International Salad Sandwiches Soup Wraps
+1669,IHOP,5,34.594921,-118.147037,American Steak Burgers Contemporary International Salad Sandwiches Soup Wraps
+1670,IHOP,3,33.689751,-117.988533,American Sandwiches Steak Burgers Coffee International Salad Soup Wraps
+1671,IHOP,3.5,35.383458,-119.042025,American Burgers Salad Sandwiches Soup Steak Wraps
+1672,IHOP,3,33.95964192,-118.3958763,American Coffee Diner Sandwiches Steak Burgers Contemporary Pizza Salad Soup Wraps
+1673,IHOP,2.5,38.020429,-121.2917794,American Sandwiches Burgers Coffee Diner Salad Soup Steak Traditional Wraps
+1674,IHOP,3,33.555496,-117.71778,American Burgers Coffee Salad Sandwiches Soup Steak Wraps
+1675,IHOP,2.5,33.802499,-117.9148167,American Burgers Diner Salad Sandwiches Soup Steak Traditional Wraps
+1676,IHOP,3.5,33.871508,-117.862722,American Steak Burgers Contemporary International Salad Sandwiches Soup Wraps
+1677,IHOP,3,32.676187,-117.091442,American Burgers Salad Sandwiches Soup Steak Wraps
+1678,IHOP,5,34.008269,-118.33625,American Burgers Coffee Diner International Salad Sandwiches Soup Steak Traditional Wraps
+1679,IHOP,2.5,37.323002,-121.997002,American Sandwiches Burgers Coffee Diner Salad Soup Steak Traditional Wraps
+1680,IHOP,3,37.69852487,-121.7422485,American Sandwiches Burgers Coffee Salad Soup Steak Wraps
+1681,IHOP,3,32.80206,-116.936363,American Sandwiches Burgers Coffee Salad Soup Steak Wraps
+1682,IHOP,5,33.881425,-117.612,American Sandwiches Burgers Coffee Salad Soup Steak Wraps
+1683,IHOP,4,33.975496,-117.3408732,American Sandwiches Bakery Burgers Coffee Diner Salad Soup Steak Wraps
+1684,IHOP,3.5,32.9529,-117.233723,American Steak Burgers Contemporary International Salad Sandwiches Soup Wraps
+1685,IHOP,3,34.12655774,-118.0551445,American Burgers Salad Sandwiches Soup Steak Wraps
+1686,IHOP,2,38.132196,-122.215632,American Sandwiches Burgers Coffee Salad Soup Steak Wraps
+1687,IHOP,4,32.647429,-116.966279,American Burgers Steak Traditional Wraps Deli Diner Salad Sandwiches Soup
+1688,IHOP,3.5,34.118559,-117.780567,American Burgers Diner Salad Sandwiches Soup Steak Wraps
+1689,IHOP,5,33.859737,-117.926148,American Sandwiches Steak Burgers Diner International Salad Soup Traditional Wraps
+1690,IHOP,2,33.854274,-118.142377,American Burgers Diner Salad Sandwiches Soup Steak Wraps
+1691,IHOP,3,32.780545,-117.130624,American Steak Burgers Contemporary International Salad Sandwiches Soup Wraps
+1692,IHOP,1.5,33.74224,-118.006973,American Burgers Salad Sandwiches Soup Steak Traditional Wraps
+1693,IHOP,2.5,33.801891,-118.328094,Diner
+1694,IHOP,3,34.024929,-117.688753,American Steak Sandwiches Burgers Coffee Contemporary Salad Soup Traditional Wraps
+1695,IHOP,3.5,33.80036652,-116.3886393,American Steak Burgers Contemporary International Salad Sandwiches Soup Wraps
+1696,IHOP,2.5,37.680693,-122.085085,American Burgers Salad Sandwiches Soup Steak Wraps
+1697,IHOP,2.5,37.64540434,-122.4056299,American Sandwiches Steak Burgers Fast Food International Salad Soup Wraps
+1698,IHOP,3.5,32.605882,-117.080164,American Burgers Salad Sandwiches Soup Steak Wraps
+1699,IHOP,2.5,33.926184,-118.396356,American Coffee Diner Sandwiches Steak Burgers Contemporary International Salad Soup Wraps
+1700,IHOP,3,33.798706,-117.83566,American Diner Sandwiches Burgers International Salad Soup Steak Wraps
+1701,IHOP,2.5,33.637506,-117.598108,American Steak Burgers Contemporary Diner Salad Sandwiches Soup Wraps
+1702,IHOP,4,33.65805,-118.00109,American Diner Burgers Salad Sandwiches Seafood Soup Steak Traditional Wraps
+1703,IHOP,1,33.888574,-118.327103,American Coffee Burgers Diner Salad Sandwiches Soup Steak Wraps
+1704,IHOP,3.5,37.562107,-122.27007,American Steak Burgers Contemporary International Salad Sandwiches Soup Wraps
+1705,IHOP,2.5,34.144744,-118.761573,American Sandwiches Bakery Burgers Diner International Salad Soup Steak Wraps
+1706,IHOP,3.5,33.839862,-118.183875,American Steak Burgers Contemporary Diner Salad Sandwiches Soup Wraps
+1707,IHOP,1,36.316383,-119.314011,American Sandwiches Steak Burgers Coffee Contemporary Salad Soup Wraps
+1708,IHOP,3,33.554093,-117.194826,American Burgers Salad Sandwiches Soup Steak Wraps
+1709,IHOP,1.5,34.09462,-117.65097,American Bakery Diner Sandwiches Bistro Burgers Coffee Grill Salad Soup Steak Wraps
+1710,IHOP,3.5,37.347989,-121.899307,American Bakery Burgers Diner Salad Sandwiches Soup Steak Wraps
+1711,IHOP,3.5,36.808588,-119.853735,American Steak Burgers Contemporary Salad Sandwiches Soup Wraps
+
+
+
+

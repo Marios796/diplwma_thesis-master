@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <row>
+        <address>s Gravesandestraat 55 Oost 1092 AA Amsterdam                 </address>
+        <keyword>Netherlands   </keyword>
+        <score>7.7  </score>
+        <text>Hotel Arena            </text>
+        <x>52.3605759</x>
+        <y>4.9159683</y>
+    </row>
+    <row>
+        <address>20 rue de l Ing nieur Robert Keller 15th arr 75015 Paris     </address>
+        <keyword>France        </keyword>
+        <score>8.6  </score>
+        <text>Platine Hotel Spa      </text>
+        <x>48.8473459</x>
+        <y>2.2832408</y>
+    </row>
+    <row>
+        <address>64 76 Hendon Way London NW2 2NL                              </address>
+        <keyword>United Kingdom</keyword>
+        <score>7.9  </score>
+        <text>Best Western Palm Hotel</text>
+        <x>51.5634756</x>
+        <y>-0.2042758</y>
+    </row>
+    <row>
+        <address>Arend Janszoon Ernststraat 577 Zuideramstel 1082 LD Amsterdam</address>
+        <keyword>Netherlands   </keyword>
+        <score>8.9  </score>
+        <text>Element Amsterdam      </text>
+        <x>52.3312406</x>
+        <y>4.8774466</y>
+    </row>
+    <row>
+        <address>Corso di Porta Romana 48 Milan City Center 20122 Milan       </address>
+        <keyword>Italy         </keyword>
+        <score>6    </score>
+        <text>Hotel Lloyd            </text>
+        <x>45.4580781</x>
+        <y>9.1924205</y>
+    </row>
+    <row>
+        <address>Gran Via 605 Eixample 08007 Barcelona                        </address>
+        <keyword>Spain         </keyword>
+        <score>4    </score>
+        <text>Avenida Palace         </text>
+        <x>41.3891168</x>
+        <y>2.1671986</y>
+    </row>
+    <row>
+        <address>Via Privata Polonia 10 20157 Milan                           </address>
+        <keyword>Italy         </keyword>
+        <score>3    </score>
+        <text>The Hub Hotel          </text>
+        <x>45.5138582</x>
+        <y>9.1194759</y>
+    </row>
+    <row>
+        <address>Webgasse 23 06 Mariahilf 1060 Vienna                         </address>
+        <keyword>Austria       </keyword>
+        <score>9    </score>
+        <text>ANA Boutique           </text>
+        <x>48.1941905</x>
+        <y>16.3462578</y>
+    </row>
+    <row>
+        <address>Athanasiou Diakou 29 Athens                                  </address>
+        <keyword>Greece        </keyword>
+        <score>4    </score>
+        <text>Royal Olympic Hotel    </text>
+        <x>37.9677111</x>
+        <y>23.7323611</y>
+    </row>
+</root>
